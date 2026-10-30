@@ -1,6 +1,6 @@
 # SUBSCRIPTION CREEP RADAR : A Power BI project report on recurring spend, subscription health, payments and usage
 
--A prjoect by Arpit Kumar and Ankita Rani
+- A project by Arpit Kumar and Ankita Rani
 
 Subscription Creep Radar is a Power BI analytics solution designed to make recurring subscription costs and related activity easier to understand. Multiple individually low-cost subscriptions can accumulate into a material monthly expense. At the same time, subscription status, automatic renewal, payment outcomes and usage records are often spread across different datasets. The project brings these perspectives together in one analytical model. 
 
