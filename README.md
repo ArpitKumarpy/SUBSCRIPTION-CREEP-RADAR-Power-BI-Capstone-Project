@@ -6,6 +6,10 @@ The solution uses four related CSV datasets—Customers, Subscriptions, Payments
 
 The project was selected because it is a practical, recognisable business problem that demonstrates a balanced range of Power BI skills without requiring an overly complex enterprise architecture. It moves beyond a basic expense chart by combining financial, operational and behavioural indicators. 
 
+#DASHBOARD
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/4e5a6b7a-4ed4-4d27-8f62-b9c09c419ca2" />
+
+
 Important:
 - This is a synthetic, fictional dataset created for a classroom Power BI project.
 - It does not contain real customers or actual company billing records.
@@ -52,3 +56,5 @@ Suggested relationships:
 - Subscriptions[SubscriptionID] 1:* Payments[SubscriptionID]
 - Subscriptions[SubscriptionID] 1:* Usage[SubscriptionID]
 - Optional: Customers[CustomerID] 1:* Payments[CustomerID]
+
+
