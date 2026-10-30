@@ -1,0 +1,1051 @@
+SubscriptionID,CustomerID,ServiceName,Category,PlanName,StartDate,BillingCycle,Status,OriginalMonthlyPriceINR,CurrentMonthlyEquivalentINR,PriceIncreaseCount,EstimatedPriceIncreasePct,RenewalDate,AutoRenew,MonthlyBilledAmountINR
+S00001,C0278,StreamFlix,Video Streaming,Standard,2023-08-24,Annual,Active,746.35,634.4,0,0.0,2027-01-04,Yes,634.4
+S00002,C0236,DesignDeck,Productivity,Pro,2025-01-10,Monthly,Cancelled,1033.85,1452.48,3,40.5,2027-08-30,No,1452.48
+S00003,C0106,SkillSpring,Education,Annual,2026-08-14,Monthly,Active,918.85,1222.99,3,33.1,2027-07-11,Yes,1222.99
+S00004,C0098,FitTrack+,Fitness,Monthly,2023-06-06,Annual,Active,239.2,203.32,0,0.0,2027-08-07,Yes,203.32
+S00005,C0031,BingeBox,Video Streaming,Mobile,2026-03-23,Annual,Active,319.2,412.64,3,52.1,2027-01-14,No,412.64
+S00006,C0015,StreamFlix,Video Streaming,Basic,2024-05-01,Annual,Active,519.2,441.32,0,0.0,2027-01-06,Yes,441.32
+S00007,C0232,BingeBox,Video Streaming,Standard,2024-11-25,Monthly,Cancelled,458.85,513.91,1,12.0,2027-09-07,Yes,513.91
+S00008,C0166,FitTrack+,Fitness,Monthly,2025-04-30,Monthly,Active,343.85,371.36,1,8.0,2027-08-04,Yes,371.36
+S00009,C0065,OfficePilot,Productivity,Family,2023-08-10,Annual,Active,549.0,466.65,0,0.0,2027-07-17,Yes,466.65
+S00010,C0288,LearnLoop,Education,Starter,2024-12-28,Monthly,Cancelled,499.0,573.85,1,15.0,2027-04-04,Yes,573.85
+S00011,C0323,StreamFlix,Video Streaming,Standard,2025-10-01,Annual,Active,649.0,551.65,0,0.0,2027-06-16,Yes,551.65
+S00012,C0174,LearnLoop,Education,Pro,2025-09-08,Monthly,Paused,399.2,500.76,2,25.4,2027-06-20,Yes,500.76
+S00013,C0068,OfficePilot,Productivity,,2024-02-17,Monthly,Cancelled,549.0,614.88,1,12.0,2027-06-29,Yes,614.88
+S00014,C0221,SkillSpring,Education,Annual,2023-03-04,Monthly,Active,799.0,878.9,1,10.0,2027-01-13,Yes,878.9
+S00015,C0131,GameSphere,Gaming,Ultimate,2023-11-04,Monthly,Cancelled,573.85,573.85,0,0.0,2026-12-06,Yes,573.85
+S00016,C0139,SkillSpring,Education,Monthly,2023-09-16,Monthly,Active,918.85,1013.03,2,10.2,2027-07-12,Yes,1013.03
+S00017,C0281,TuneCloud,Music,Individual,2023-12-07,Monthly,Active,119.0,119.0,0,0.0,2027-05-15,Yes,119.0
+S00018,C0085,GameSphere,Gaming,Ultimate,2023-05-30,Monthly,Active,573.85,631.24,1,10.0,2027-08-22,Yes,631.24
+S00019,C0081,FitTrack+,Fitness,Monthly,2025-09-11,Monthly,Active,239.2,263.72,2,10.3,2027-02-18,Yes,263.72
+S00020,C0246,PodWave,Music,Free+,2026-05-18,Monthly,Active,79.2,87.32,2,10.3,2027-10-01,No,87.32
+S00021,C0219,CloudNest,Cloud Storage,Family,2024-08-26,Monthly,Active,228.85,276.91,2,21.0,2027-08-11,Yes,276.91
+S00022,C0204,LearnLoop,Education,Starter,2024-11-04,Monthly,Paused,499.0,558.88,1,12.0,2027-05-16,Yes,558.88
+S00023,C0069,MealMate,Food & Delivery,Max,2025-11-20,Monthly,Active,113.85,125.52,2,10.3,2027-09-16,Yes,125.52
+S00024,C0288,TravelEase,Travel,Plus,2024-08-14,Monthly,Active,249.0,278.88,1,12.0,2027-02-12,Yes,278.88
+S00025,C0221,FitTrack+,Fitness,Annual,2023-03-23,Monthly,Active,343.85,385.11,1,12.0,2027-01-05,Yes,385.11
+S00026,C0323,BingeBox,Video Streaming,Family,2024-02-14,Annual,Active,399.0,410.37,2,21.0,2027-01-20,Yes,410.37
+S00027,C0002,FitTrack+,Fitness,Monthly,2025-08-15,Annual,Active,299.0,318.81,2,25.4,2027-08-04,Yes,318.81
+S00028,C0237,CloudNest,Cloud Storage,100 GB,2024-05-12,Monthly,Active,228.85,228.85,0,0.0,2027-01-10,Yes,228.85
+S00029,C0050,GameSphere,Gaming,Core,2023-08-02,Monthly,Active,499.0,499.0,0,0.0,2027-01-06,No,499.0
+S00030,C0185,OfficePilot,Productivity,Family,2023-07-03,Monthly,Cancelled,631.35,707.11,1,12.0,2027-03-23,Yes,707.11
+S00031,C0031,StreamFlix,Video Streaming,Premium,2024-07-20,Monthly,Active,649.0,649.0,0,0.0,2027-01-02,No,649.0
+S00032,C0075,NewsDaily,News,Premium,2025-05-21,Annual,Active,149.0,126.65,0,0.0,2027-01-27,,126.65
+S00033,C0326,MealMate,Food & Delivery,Plus,2025-05-15,Monthly,Active,99.0,99.0,0,0.0,2026-12-25,Yes,99.0
+S00034,C0138,MealMate,Food & Delivery,Max,2023-12-06,Monthly,Cancelled,113.85,113.85,0,0.0,2026-11-14,Yes,113.85
+S00035,C0189,StreamFlix,Video Streaming,Premium,2023-06-16,Annual,Active,746.35,734.39,3,15.8,2027-07-19,Yes,734.39
+S00036,C0345,NewsDaily,News,Premium,2023-08-09,Monthly,Active,149.0,149.0,0,0.0,2026-12-09,Yes,149.0
+S00037,C0177,FitTrack+,Fitness,Annual,2026-02-13,Monthly,Active,343.85,431.33,2,25.4,2027-01-25,Yes,431.33
+S00038,C0279,GameSphere,Gaming,Core,2024-09-13,Monthly,Cancelled,573.85,758.92,2,32.3,2027-09-27,Yes,758.92
+S00039,C0231,SecureSurf,Security,Basic,2023-11-01,Monthly,Active,143.2,160.38,1,12.0,2027-09-11,Yes,160.38
+S00040,C0214,MealMate,Food & Delivery,Max,2025-12-03,Monthly,Active,99.0,115.47,2,16.6,2027-02-26,No,115.47
+S00041,C0332,TuneCloud,Music,Individual,2026-06-10,Monthly,Active,119.0,133.28,1,12.0,2027-04-25,No,133.28
+S00042,C0263,FitTrack+,Fitness,Monthly,2024-07-24,Annual,Active,343.85,292.27,0,0.0,2027-07-27,Yes,292.27
+S00043,C0258,TuneCloud,Music,Family,2025-01-19,Monthly,Active,119.0,149.27,2,25.4,2027-01-24,No,149.27
+S00044,C0155,OfficePilot,Productivity,Family,2024-05-23,Monthly,Active,549.0,576.45,1,5.0,2027-04-18,Yes,576.45
+S00045,C0007,NewsDaily,News,Premium,2023-03-21,Annual,Cancelled,149.0,132.98,1,5.0,2026-12-17,No,132.98
+S00046,C0290,BingeBox,Video Streaming,Mobile,2024-02-03,Annual,Active,319.2,271.32,0,0.0,2026-12-09,Yes,271.32
+S00047,C0011,NewsDaily,News,Digital,2025-10-03,Monthly,Cancelled,149.0,164.27,2,10.2,2027-06-14,Yes,164.27
+S00048,C0329,LearnLoop,Education,Pro,2025-08-22,Monthly,Paused,499.0,523.95,1,5.0,2026-12-27,Yes,523.95
+S00049,C0265,MealMate,Food & Delivery,Plus,2025-08-01,Monthly,Active,99.0,110.88,1,12.0,2027-09-04,Yes,110.88
+S00050,C0264,OfficePilot,Productivity,Personal,2025-06-09,Monthly,Active,631.35,631.35,0,0.0,2027-05-22,Yes,631.35
+S00051,C0156,CloudNest,Cloud Storage,1 TB,2026-06-19,Monthly,Active,159.2,178.3,1,12.0,2027-06-30,Yes,178.3
+S00052,C0019,StreamFlix,Video Streaming,Standard,2026-09-25,Annual,Active,519.2,507.52,1,15.0,2027-07-25,Yes,507.52
+S00053,C0013,LearnLoop,Education,Pro,2025-01-09,Monthly,Active,499.0,558.88,1,12.0,2027-09-30,Yes,558.88
+S00054,C0350,StreamFlix,Video Streaming,Premium,2024-07-15,Monthly,Active,649.0,713.9,1,10.0,2027-09-28,No,713.9
+S00055,C0180,BingeBox,Video Streaming,Standard,2024-08-06,Monthly,Active,319.2,319.2,0,0.0,2026-10-27,Yes,319.2
+S00056,C0249,CloudNest,Cloud Storage,100 GB,2026-08-28,Monthly,Active,159.2,242.12,3,52.1,2026-12-27,Yes,242.12
+S00057,C0108,GameSphere,Gaming,Core,2023-07-29,Annual,Active,399.2,448.75,2,32.2,2027-04-27,No,448.75
+S00058,C0283,TuneCloud,Music,Individual,2024-04-23,Annual,Cancelled,119.0,101.15,0,0.0,2027-05-27,Yes,101.15
+S00059,C0120,MealMate,Food & Delivery,Max,2024-07-04,Monthly,Paused,113.85,113.85,0,0.0,2027-05-07,Yes,113.85
+S00060,C0085,SecureSurf,Security,Advanced,2026-06-12,Monthly,Active,205.85,272.24,2,32.3,2027-02-02,Yes,272.24
+S00061,C0062,OfficePilot,Productivity,Family,2024-07-18,Monthly,Active,549.0,726.05,2,32.2,2027-02-25,Yes,726.05
+S00062,C0187,LearnLoop,Education,Pro,2023-03-19,Monthly,Active,399.2,527.94,2,32.2,2027-05-17,Yes,527.94
+S00063,C0090,TuneCloud,Music,Duo,2025-07-29,Annual,Active,95.2,80.92,0,0.0,2027-05-27,Yes,80.92
+S00064,C0182,LearnLoop,Education,Pro,2025-07-12,Monthly,Cancelled,499.0,499.0,0,0.0,2027-08-16,Yes,499.0
+S00065,C0208,SkillSpring,Education,Annual,2025-07-22,Monthly,Active,639.2,639.2,0,0.0,2027-06-24,No,639.2
+S00066,C0305,TuneCloud,Music,Duo,2026-06-14,Monthly,Active,119.0,119.0,0,0.0,2027-01-16,Yes,119.0
+S00067,C0126,FitTrack+,Fitness,Monthly,2025-01-14,Monthly,Paused,299.0,334.88,1,12.0,2027-08-06,Yes,334.88
+S00068,C0303,CloudNest,Cloud Storage,1 TB,2025-08-09,Monthly,Active,159.2,159.2,0,0.0,2027-01-16,Yes,159.2
+S00069,C0049,TravelEase,Travel,Plus,2024-08-19,Annual,Cancelled,199.2,225.37,3,33.1,2026-11-02,Yes,225.37
+S00070,C0306,SecureSurf,Security,Advanced,2023-09-26,Annual,Active,205.85,202.55,3,15.8,2027-05-15,Yes,202.55
+S00071,C0329,FitTrack+,Fitness,Annual,2025-05-23,Monthly,Active,299.0,299.0,0,0.0,2027-07-24,No,299.0
+S00072,C0184,SkillSpring,Education,Monthly,2025-01-15,Monthly,Active,799.0,924.94,3,15.8,2027-07-21,Yes,924.94
+S00073,C0255,SecureSurf,Security,Basic,2024-12-14,Annual,Active,179.0,152.15,0,0.0,2027-09-05,Yes,152.15
+S00074,C0207,TravelEase,Travel,Plus,2023-06-19,Monthly,Active,249.0,278.88,1,12.0,2027-10-22,Yes,278.88
+S00075,C0301,StreamFlix,Video Streaming,Standard,2024-07-22,Annual,Active,649.0,608.19,2,10.2,2027-02-08,Yes,608.19
+S00076,C0112,LearnLoop,Education,Pro,2026-01-01,Monthly,Cancelled,573.85,602.54,1,5.0,2026-12-08,Yes,602.54
+S00077,C0095,OfficePilot,Productivity,Personal,2023-07-01,Monthly,Active,439.2,439.2,0,0.0,2026-12-17,Yes,439.2
+S00078,C0095,StreamFlix,Video Streaming,Basic,2025-07-27,Monthly,Active,649.0,700.92,1,8.0,2027-06-21,Yes,700.92
+S00079,C0118,FitTrack+,Fitness,Monthly,2025-11-12,Monthly,Active,343.85,395.43,1,15.0,2027-05-08,Yes,395.43
+S00080,C0265,FitTrack+,Fitness,Monthly,2025-10-07,Monthly,Active,239.2,316.34,2,32.2,2027-10-05,Yes,316.34
+S00081,C0317,GameSphere,Gaming,Core,2024-11-17,Monthly,Active,499.0,758.92,3,52.1,2027-10-20,Yes,758.92
+S00082,C0188,PodWave,Music,Free+,2023-05-06,Monthly,Cancelled,113.85,113.85,0,0.0,2027-04-10,Yes,113.85
+S00083,C0053,LearnLoop,Education,Pro,2023-01-26,Monthly,Active,399.2,399.2,0,0.0,2027-10-07,Yes,399.2
+S00084,C0192,TravelEase,Travel,Saver,2025-09-26,Annual,Active,249.0,321.9,3,52.1,2027-01-29,Yes,321.9
+S00085,C0046,MealMate,Food & Delivery,Plus,2026-03-26,Monthly,Active,99.0,113.85,1,15.0,2027-10-18,Yes,113.85
+S00086,C0142,BingeBox,Video Streaming,Standard,2025-09-04,Monthly,Active,399.0,399.0,0,0.0,2027-06-30,Yes,399.0
+S00087,C0107,LearnLoop,Education,Pro,2025-06-13,Annual,Active,499.0,467.63,2,10.3,2027-05-23,Yes,467.63
+S00088,C0260,LearnLoop,Education,Starter,2025-01-27,Monthly,Active,399.2,399.2,0,0.0,2027-07-26,No,399.2
+S00089,C0080,DesignDeck,Productivity,Pro,2024-07-23,Monthly,Active,899.0,1196.57,3,33.1,2027-02-28,Yes,1196.57
+S00090,C0274,CloudNest,Cloud Storage,,2024-04-20,Monthly,Active,159.2,223.66,3,40.5,2027-01-31,Yes,223.66
+S00091,C0118,StreamFlix,Video Streaming,Basic,2024-04-27,Monthly,Active,649.0,649.0,0,0.0,2027-03-14,Yes,649.0
+S00092,C0115,StreamFlix,Video Streaming,Basic,2023-11-06,Monthly,Cancelled,519.2,628.23,2,21.0,2027-10-23,Yes,628.23
+S00093,C0327,GameSphere,Gaming,Core,2023-04-04,Monthly,Active,573.85,694.36,2,21.0,2027-09-18,No,694.36
+S00094,C0268,TravelEase,Travel,Saver,2024-11-05,Monthly,Active,199.2,265.14,3,33.1,2027-08-04,Yes,265.14
+S00095,C0235,GameSphere,Gaming,Ultimate,2026-01-04,Monthly,Active,499.0,582.03,2,16.6,2026-12-01,Yes,582.03
+S00096,C0231,TuneCloud,Music,Duo,2026-08-22,Annual,Active,119.0,106.21,1,5.0,2027-09-12,Yes,106.21
+S00097,C0265,SkillSpring,Education,Monthly,2023-03-13,Monthly,Active,799.0,799.0,0,0.0,2027-04-28,Yes,799.0
+S00098,C0193,NewsDaily,News,Digital,2026-08-14,Annual,Cancelled,149.0,146.62,3,15.8,2027-08-09,Yes,146.62
+S00099,C0325,BingeBox,Video Streaming,Standard,2023-11-07,Monthly,Cancelled,458.85,495.56,1,8.0,2027-01-31,Yes,495.56
+S00100,C0135,StreamFlix,Video Streaming,Premium,2024-04-06,Monthly,Active,649.0,715.52,2,10.2,2026-11-20,Yes,715.52
+S00101,C0133,TravelEase,Travel,Saver,2023-12-24,Monthly,Active,286.35,286.35,0,0.0,2027-02-21,Yes,286.35
+S00102,C0165,StreamFlix,Video Streaming,Basic,2025-09-14,Annual,Active,746.35,685.15,1,8.0,2027-09-10,Yes,685.15
+S00103,C0315,TravelEase,Travel,Saver,2025-06-15,Monthly,Active,286.35,286.35,0,0.0,2027-03-05,Yes,286.35
+S00104,C0193,TuneCloud,Music,Family,2024-10-15,Monthly,Active,119.0,119.0,0,0.0,2026-11-10,Yes,119.0
+S00105,C0157,SecureSurf,Security,Basic,2026-05-01,Monthly,Active,179.0,216.59,2,21.0,2026-12-15,Yes,216.59
+S00106,C0164,StreamFlix,Video Streaming,Basic,2024-10-03,Monthly,Active,649.0,649.0,0,0.0,2027-03-16,Yes,649.0
+S00107,C0116,PodWave,Music,Free+,2025-08-06,Annual,Active,99.0,92.78,2,10.3,2027-03-14,Yes,92.78
+S00108,C0044,GameSphere,Gaming,Ultimate,2024-04-26,Monthly,Cancelled,399.2,459.08,1,15.0,2027-07-08,Yes,459.08
+S00109,C0156,StreamFlix,Video Streaming,Standard,2025-08-22,Monthly,Cancelled,746.35,783.67,1,5.0,2027-07-18,Yes,783.67
+S00110,C0157,MealMate,Food & Delivery,Max,2024-12-19,Annual,Active,113.85,96.77,0,0.0,2027-05-18,Yes,96.77
+S00111,C0171,BingeBox,Video Streaming,Standard,2026-05-12,Annual,Active,399.0,395.58,2,16.6,2027-01-09,Yes,395.58
+S00112,C0030,TuneCloud,Music,Individual,2023-09-23,Monthly,Active,136.85,165.59,2,21.0,2027-06-06,Yes,165.59
+S00113,C0026,StreamFlix,Video Streaming,Premium,2026-05-15,Monthly,Active,519.2,686.64,2,32.2,2027-10-08,Yes,686.64
+S00114,C0306,PodWave,Music,Free+,2025-12-12,Annual,Cancelled,99.0,90.88,1,8.0,2027-06-02,Yes,90.88
+S00115,C0138,BingeBox,Video Streaming,Standard,2025-11-09,Monthly,Paused,399.0,399.0,0,0.0,2026-12-29,No,399.0
+S00116,C0295,StreamFlix,Video Streaming,Basic,2023-02-06,Monthly,Cancelled,649.0,649.0,0,0.0,2027-01-30,Yes,649.0
+S00117,C0047,LearnLoop,Education,Pro,2026-02-13,Monthly,Active,499.0,538.92,1,8.0,2027-08-24,Yes,538.92
+S00118,C0074,PodWave,Music,Premium,2025-01-30,Monthly,Active,99.0,99.0,0,0.0,2026-12-28,Yes,99.0
+S00119,C0003,StreamFlix,Video Streaming,Premium,2026-09-17,Monthly,Active,746.35,822.85,2,10.2,2026-11-28,No,822.85
+S00120,C0258,SkillSpring,Education,Monthly,2025-11-17,Annual,Active,799.0,898.18,2,32.3,2027-04-23,Yes,898.18
+S00121,C0201,StreamFlix,Video Streaming,Premium,2024-02-02,Monthly,Active,649.0,715.52,2,10.2,2027-06-26,Yes,715.52
+S00122,C0022,SkillSpring,Education,Monthly,2023-12-29,Monthly,Active,799.0,799.0,0,0.0,2027-02-15,Yes,799.0
+S00123,C0283,CloudNest,Cloud Storage,Family,2025-02-25,Monthly,Active,159.2,183.08,1,15.0,2027-09-01,Yes,183.08
+S00124,C0040,GameSphere,Gaming,Core,2023-08-31,Monthly,Active,573.85,573.85,0,0.0,2027-07-27,Yes,573.85
+S00125,C0296,StreamFlix,Video Streaming,Standard,2024-02-24,Monthly,Active,649.0,987.05,3,52.1,2027-01-29,Yes,987.05
+S00126,C0215,GameSphere,Gaming,Ultimate,2025-08-05,Monthly,Active,573.85,669.34,2,16.6,2027-08-17,Yes,669.34
+S00127,C0306,TravelEase,Travel,Saver,2025-01-08,Monthly,Active,249.0,331.42,3,33.1,2027-03-28,Yes,331.42
+S00128,C0137,SkillSpring,Education,Monthly,2023-07-07,Monthly,Active,639.2,898.03,3,40.5,2026-12-11,Yes,898.03
+S00129,C0054,DesignDeck,Productivity,Pro,2023-05-26,Annual,Active,719.2,703.02,1,15.0,2027-06-14,Yes,703.02
+S00130,C0308,PodWave,Music,Premium,2026-06-15,Monthly,Active,99.0,114.6,3,15.8,2027-05-29,Yes,114.6
+S00131,C0134,BingeBox,Video Streaming,Family,2023-01-09,Monthly,Active,319.2,344.74,1,8.0,2027-04-20,Yes,344.74
+S00132,C0298,CloudNest,Cloud Storage,1 TB,2024-04-17,Monthly,Paused,199.0,219.4,2,10.3,2027-06-18,Yes,219.4
+S00133,C0009,StreamFlix,Video Streaming,Standard,2023-05-24,Monthly,Active,649.0,746.35,1,15.0,2027-09-10,Yes,746.35
+S00134,C0064,DesignDeck,Productivity,Basic,2026-05-16,Monthly,Active,1033.85,1188.93,1,15.0,2027-05-30,No,1188.93
+S00135,C0013,SkillSpring,Education,Annual,2023-12-29,Monthly,Active,799.0,799.0,0,0.0,2026-12-18,No,799.0
+S00136,C0134,TuneCloud,Music,Duo,2026-07-17,Monthly,Active,95.2,95.2,0,0.0,2027-08-20,No,95.2
+S00137,C0201,CloudNest,Cloud Storage,100 GB,2026-05-18,Annual,Cancelled,228.85,204.25,1,5.0,2026-11-14,Yes,204.25
+S00138,C0348,TuneCloud,Music,Duo,2025-10-19,Annual,Active,136.85,122.14,1,5.0,2026-11-08,No,122.14
+S00139,C0251,StreamFlix,Video Streaming,Basic,2025-03-30,Monthly,Active,746.35,863.99,3,15.8,2027-05-09,Yes,863.99
+S00140,C0306,StreamFlix,Video Streaming,Basic,2025-08-19,Monthly,Active,519.2,605.59,2,16.6,2026-12-19,Yes,605.59
+S00141,C0124,CloudNest,Cloud Storage,100 GB,2026-01-11,Annual,Active,199.0,182.68,1,8.0,2027-09-24,No,182.68
+S00142,C0332,OfficePilot,Productivity,Family,2025-01-06,Annual,Active,549.0,513.31,1,10.0,2027-07-06,Yes,513.31
+S00143,C0062,FitTrack+,Fitness,Annual,2024-03-27,Monthly,Active,239.2,258.34,1,8.0,2027-04-30,Yes,258.34
+S00144,C0049,FitTrack+,Fitness,Annual,2023-03-05,Monthly,Active,343.85,343.85,0,0.0,2027-02-20,Yes,343.85
+S00145,C0039,SecureSurf,Security,Advanced,2024-03-21,Monthly,Active,179.0,205.85,1,15.0,2026-11-05,Yes,205.85
+S00146,C0286,OfficePilot,Productivity,Family,2023-06-07,Monthly,Active,549.0,614.88,1,12.0,2027-06-04,Yes,614.88
+S00147,C0161,SecureSurf,Security,Advanced,2024-05-31,Monthly,Paused,143.2,160.38,1,12.0,2027-07-28,Yes,160.38
+S00148,C0092,MealMate,Food & Delivery,Max,2026-06-25,Monthly,Paused,79.2,99.77,3,26.0,2026-11-05,Yes,99.77
+S00149,C0124,LearnLoop,Education,Starter,2026-04-01,Monthly,Active,499.0,499.0,0,0.0,2027-04-09,No,499.0
+S00150,C0274,StreamFlix,Video Streaming,Standard,2026-01-25,Annual,Active,649.0,667.5,2,21.0,2026-11-28,No,667.5
+S00151,C0153,OfficePilot,Productivity,Personal,2024-12-16,Monthly,Active,549.0,664.29,2,21.0,2026-11-07,Yes,664.29
+S00152,C0276,PodWave,Music,Premium,2024-02-19,Monthly,Paused,113.85,137.76,2,21.0,2027-04-24,Yes,137.76
+S00153,C0105,MealMate,Food & Delivery,Plus,2025-02-02,Monthly,Cancelled,113.85,132.79,2,16.6,2027-09-12,No,132.79
+S00154,C0316,FitTrack+,Fitness,Annual,2025-09-04,Monthly,Active,299.0,299.0,0,0.0,2027-02-09,Yes,299.0
+S00155,C0292,OfficePilot,Productivity,Family,2025-08-14,Annual,Active,549.0,503.98,1,8.0,2027-04-14,Yes,503.98
+S00156,C0250,GameSphere,Gaming,Ultimate,2026-09-20,Monthly,Cancelled,499.0,582.03,2,16.6,2027-02-10,No,582.03
+S00157,C0002,MealMate,Food & Delivery,Max,2023-04-02,Monthly,Active,113.85,122.96,1,8.0,2027-08-20,No,122.96
+S00158,C0074,CloudNest,Cloud Storage,1 TB,2025-01-05,Monthly,Active,159.2,159.2,0,0.0,2027-08-29,Yes,159.2
+S00159,C0065,NewsDaily,News,Digital,2024-06-19,Monthly,Active,171.35,171.35,0,0.0,2027-05-24,Yes,171.35
+S00160,C0100,LearnLoop,Education,Starter,2024-02-28,Monthly,Paused,499.0,523.95,1,5.0,2027-04-17,Yes,523.95
+S00161,C0229,MealMate,Food & Delivery,Max,2024-01-09,Monthly,Active,79.2,88.7,1,12.0,2027-02-08,Yes,88.7
+S00162,C0060,SkillSpring,Education,Monthly,2023-08-16,Annual,Cancelled,918.85,820.07,1,5.0,2027-09-11,Yes,820.07
+S00163,C0281,StreamFlix,Video Streaming,Premium,2026-07-15,Monthly,Active,649.0,858.3,2,32.2,2027-07-05,No,858.3
+S00164,C0196,LearnLoop,Education,Pro,2024-11-26,Annual,Active,573.85,487.77,0,0.0,2026-12-28,Yes,487.77
+S00165,C0106,BingeBox,Video Streaming,Mobile,2023-02-10,Monthly,Cancelled,458.85,458.85,0,0.0,2027-04-28,,458.85
+S00166,C0181,NewsDaily,News,Premium,2023-12-11,Monthly,Active,149.0,163.9,1,10.0,2026-12-27,Yes,163.9
+S00167,C0056,TravelEase,Travel,Saver,2026-05-15,Monthly,Active,199.2,199.2,0,0.0,2027-05-17,Yes,199.2
+S00168,C0280,SkillSpring,Education,Monthly,2023-12-18,Monthly,Cancelled,799.0,918.85,1,15.0,2026-11-29,Yes,918.85
+S00169,C0302,GameSphere,Gaming,Core,2023-08-31,Monthly,Active,399.2,399.2,0,0.0,2027-04-26,Yes,399.2
+S00170,C0187,StreamFlix,Video Streaming,Premium,2025-02-15,Monthly,Active,746.35,987.05,2,32.3,2027-09-09,Yes,987.05
+S00171,C0153,TravelEase,Travel,Plus,2025-04-19,Monthly,Cancelled,199.2,199.2,0,0.0,2026-11-22,Yes,199.2
+S00172,C0020,SecureSurf,Security,Advanced,2024-01-25,Monthly,Active,143.2,167.03,2,16.6,2027-09-15,Yes,167.03
+S00173,C0230,SkillSpring,Education,Annual,2023-05-19,Monthly,Active,799.0,799.0,0,0.0,2026-12-08,Yes,799.0
+S00174,C0110,OfficePilot,Productivity,Personal,2023-11-23,Annual,Active,549.0,513.31,1,10.0,2027-10-03,Yes,513.31
+S00175,C0161,SecureSurf,Security,Advanced,2026-01-11,Monthly,Active,205.85,226.44,1,10.0,2027-06-12,Yes,226.44
+S00176,C0118,LearnLoop,Education,Pro,2025-04-13,Monthly,Active,399.2,447.1,1,12.0,2026-12-09,Yes,447.1
+S00177,C0280,BingeBox,Video Streaming,Mobile,2023-01-30,Monthly,Active,319.2,372.31,2,16.6,2027-07-07,Yes,372.31
+S00178,C0183,CloudNest,Cloud Storage,100 GB,2023-12-15,Monthly,Active,199.0,279.58,3,40.5,2027-02-09,No,279.58
+S00179,C0341,DesignDeck,Productivity,Pro,2023-03-19,Monthly,Active,899.0,899.0,0,0.0,2027-08-19,Yes,899.0
+S00180,C0192,NewsDaily,News,Digital,2025-11-04,Monthly,Active,149.0,171.35,1,15.0,2027-06-21,Yes,171.35
+S00181,C0067,FitTrack+,Fitness,Annual,2025-01-14,Monthly,Active,299.0,299.0,0,0.0,2027-01-11,Yes,299.0
+S00182,C0027,FitTrack+,Fitness,Annual,2025-05-02,Monthly,Active,299.0,322.92,1,8.0,2027-08-20,No,322.92
+S00183,C0163,FitTrack+,Fitness,Annual,2023-10-01,Monthly,Active,299.0,343.85,1,15.0,2027-03-27,Yes,343.85
+S00184,C0146,StreamFlix,Video Streaming,Standard,2026-02-27,Monthly,Active,649.0,700.92,1,8.0,2027-10-01,Yes,700.92
+S00185,C0006,TuneCloud,Music,Individual,2026-06-16,Monthly,Active,95.2,95.2,0,0.0,2027-02-04,Yes,95.2
+S00186,C0044,StreamFlix,Video Streaming,Basic,2024-03-06,Monthly,Active,649.0,649.0,0,0.0,2027-05-15,No,649.0
+S00187,C0140,StreamFlix,Video Streaming,Basic,2023-09-23,Annual,Active,519.2,587.4,3,33.1,2027-06-09,Yes,587.4
+S00188,C0138,BingeBox,Video Streaming,Family,2026-04-03,Monthly,Cancelled,399.0,418.95,1,5.0,2027-03-16,No,418.95
+S00189,C0169,OfficePilot,Productivity,Personal,2024-02-14,Monthly,Active,631.35,631.35,0,0.0,2027-09-28,Yes,631.35
+S00190,C0181,OfficePilot,Productivity,Family,2023-06-11,Monthly,Cancelled,549.0,549.0,0,0.0,2027-01-24,Yes,549.0
+S00191,C0273,StreamFlix,Video Streaming,Premium,2026-04-11,Monthly,Active,519.2,581.5,1,12.0,2026-11-17,Yes,581.5
+S00192,C0167,OfficePilot,Productivity,Personal,2024-12-05,Monthly,Cancelled,549.0,549.0,0,0.0,2027-05-20,Yes,549.0
+S00193,C0259,StreamFlix,Video Streaming,Basic,2026-06-05,Monthly,Active,519.2,519.2,0,0.0,2027-10-22,Yes,519.2
+S00194,C0233,FitTrack+,Fitness,Monthly,2023-06-21,Monthly,Cancelled,299.0,329.65,2,10.3,2027-10-11,Yes,329.65
+S00195,C0066,TravelEase,Travel,Saver,2025-12-25,Monthly,Active,249.0,249.0,0,0.0,2026-12-23,No,249.0
+S00196,C0052,SecureSurf,Security,Advanced,2026-06-01,Monthly,Active,143.2,150.36,1,5.0,2027-01-28,Yes,150.36
+S00197,C0056,BingeBox,Video Streaming,Standard,2023-12-16,Monthly,Cancelled,399.0,430.92,1,8.0,2026-12-12,No,430.92
+S00198,C0068,DesignDeck,Productivity,Pro,2023-10-26,Monthly,Active,899.0,991.15,2,10.3,2027-06-07,Yes,991.15
+S00199,C0068,TuneCloud,Music,Individual,2024-11-12,Monthly,Active,95.2,109.48,1,15.0,2026-12-24,No,109.48
+S00200,C0050,SkillSpring,Education,Monthly,2026-04-01,Annual,Active,799.0,781.02,1,15.0,2027-06-23,Yes,781.02
+S00201,C0217,CloudNest,Cloud Storage,Family,2024-10-01,Monthly,Paused,159.2,175.52,2,10.3,2026-11-26,Yes,175.52
+S00202,C0117,GameSphere,Gaming,Core,2023-12-20,Monthly,Active,499.0,603.79,2,21.0,2027-08-01,Yes,603.79
+S00203,C0270,StreamFlix,Video Streaming,Premium,2025-03-08,Monthly,Active,649.0,649.0,0,0.0,2027-03-19,Yes,649.0
+S00204,C0062,BingeBox,Video Streaming,Mobile,2024-06-17,Monthly,Active,399.0,439.9,2,10.3,2027-06-03,Yes,439.9
+S00205,C0131,TuneCloud,Music,Individual,2023-07-25,Monthly,Active,136.85,171.66,2,25.4,2027-06-09,Yes,171.66
+S00206,C0315,TravelEase,Travel,Saver,2025-07-10,Monthly,Cancelled,286.35,309.26,1,8.0,2027-07-27,Yes,309.26
+S00207,C0239,TuneCloud,Music,Family,2023-10-10,Monthly,Paused,136.85,136.85,0,0.0,2027-06-20,Yes,136.85
+S00208,C0162,BingeBox,Video Streaming,Standard,2026-03-01,Monthly,Active,319.2,319.2,0,0.0,2027-06-02,No,319.2
+S00209,C0112,LearnLoop,Education,Starter,2026-06-05,Monthly,Active,499.0,499.0,0,0.0,2027-07-21,No,499.0
+S00210,C0025,DesignDeck,Productivity,Pro,2023-05-13,Monthly,Active,1033.85,1296.86,2,25.4,2027-02-27,Yes,1296.86
+S00211,C0084,StreamFlix,Video Streaming,Basic,2023-12-08,Monthly,Active,649.0,858.3,2,32.2,2027-07-31,Yes,858.3
+S00212,C0261,TravelEase,Travel,Plus,2024-06-18,Monthly,Cancelled,286.35,315.7,2,10.2,2027-09-02,Yes,315.7
+S00213,C0093,FitTrack+,Fitness,Monthly,2025-04-27,Annual,Active,299.0,254.15,0,0.0,2027-10-09,Yes,254.15
+S00214,C0102,OfficePilot,Productivity,Family,2025-03-04,Monthly,Cancelled,549.0,603.9,1,10.0,2027-01-03,Yes,603.9
+S00215,C0132,OfficePilot,Productivity,Family,2023-01-07,Monthly,Active,549.0,576.45,1,5.0,2026-12-24,Yes,576.45
+S00216,C0228,PodWave,Music,Free+,2026-01-03,Monthly,Active,99.0,103.95,1,5.0,2027-01-04,Yes,103.95
+S00217,C0219,SecureSurf,Security,Advanced,2023-06-20,Monthly,Active,179.0,216.59,2,21.0,2026-12-01,Yes,216.59
+S00218,C0200,StreamFlix,Video Streaming,Premium,2023-04-08,Annual,Active,746.35,666.12,1,5.0,2027-02-14,Yes,666.12
+S00219,C0095,OfficePilot,Productivity,Family,2023-02-16,Monthly,Active,549.0,605.27,2,10.2,2027-09-05,Yes,605.27
+S00220,C0106,StreamFlix,Video Streaming,Standard,2024-06-25,Annual,Active,519.2,441.32,0,0.0,2026-11-21,Yes,441.32
+S00221,C0272,SecureSurf,Security,Advanced,2026-07-15,Monthly,Active,143.2,157.88,2,10.3,2027-06-03,Yes,157.88
+S00222,C0190,CloudNest,Cloud Storage,100 GB,2024-02-12,Monthly,Cancelled,228.85,240.29,1,5.0,2027-07-13,Yes,240.29
+S00223,C0045,PodWave,Music,Premium,2025-08-13,Monthly,Active,79.2,88.7,1,12.0,2027-10-04,Yes,88.7
+S00224,C0010,StreamFlix,Video Streaming,Basic,2026-07-09,Monthly,Active,649.0,715.52,2,10.2,2026-12-18,Yes,715.52
+S00225,C0086,OfficePilot,Productivity,Family,2023-10-24,Monthly,Active,549.0,592.92,1,8.0,2027-05-17,No,592.92
+S00226,C0188,TravelEase,Travel,Plus,2026-01-17,Monthly,Active,286.35,314.99,1,10.0,2027-09-30,Yes,314.99
+S00227,C0075,StreamFlix,Video Streaming,Basic,2025-05-08,Monthly,Active,649.0,858.3,2,32.2,2027-08-11,Yes,858.3
+S00228,C0089,StreamFlix,Video Streaming,Standard,2026-01-24,Monthly,Paused,649.0,649.0,0,0.0,2027-02-04,Yes,649.0
+S00229,C0066,NewsDaily,News,Digital,2026-09-05,Monthly,Active,149.0,149.0,0,0.0,2027-06-20,Yes,149.0
+S00230,C0047,StreamFlix,Video Streaming,Standard,2024-12-05,Monthly,Active,519.2,519.2,0,0.0,2027-10-10,Yes,519.2
+S00231,C0231,CloudNest,Cloud Storage,Family,2025-09-03,Monthly,Active,228.85,228.85,0,0.0,2026-12-07,No,228.85
+S00232,C0215,LearnLoop,Education,Pro,2023-06-16,Monthly,Active,573.85,631.24,1,10.0,2027-02-02,No,631.24
+S00233,C0031,TuneCloud,Music,Individual,2024-01-10,Monthly,Active,119.0,119.0,0,0.0,2026-11-24,Yes,119.0
+S00234,C0295,TuneCloud,Music,Duo,2024-11-14,Annual,Active,95.2,94.38,2,16.6,2027-10-09,Yes,94.38
+S00235,C0061,DesignDeck,Productivity,Pro,2025-02-17,Monthly,Active,899.0,991.15,2,10.3,2027-04-21,Yes,991.15
+S00236,C0223,StreamFlix,Video Streaming,Standard,2023-02-17,Monthly,Active,649.0,649.0,0,0.0,2027-01-04,Yes,649.0
+S00237,C0014,FitTrack+,Fitness,Monthly,2024-09-25,Monthly,Active,299.0,375.07,2,25.4,2027-05-26,No,375.07
+S00238,C0130,LearnLoop,Education,Pro,2026-03-25,Monthly,Active,499.0,499.0,0,0.0,2027-10-06,No,499.0
+S00239,C0030,StreamFlix,Video Streaming,Premium,2026-06-16,Annual,Active,519.2,441.32,0,0.0,2027-06-02,No,441.32
+S00240,C0186,CloudNest,Cloud Storage,1 TB,2024-08-20,Monthly,Active,199.0,199.0,0,0.0,2027-07-23,Yes,199.0
+S00241,C0115,FitTrack+,Fitness,Monthly,2025-12-27,Monthly,Cancelled,299.0,361.79,2,21.0,2027-06-04,No,361.79
+S00242,C0311,TuneCloud,Music,Duo,2023-04-03,Monthly,Active,136.85,136.85,0,0.0,2026-11-05,Yes,136.85
+S00243,C0117,MealMate,Food & Delivery,Max,2026-01-09,Monthly,Paused,99.0,103.95,1,5.0,2027-02-28,Yes,103.95
+S00244,C0245,OfficePilot,Productivity,Family,2026-02-08,Monthly,Active,631.35,726.05,1,15.0,2027-08-05,Yes,726.05
+S00245,C0314,PodWave,Music,Free+,2023-10-02,Monthly,Active,99.0,99.0,0,0.0,2027-05-19,Yes,99.0
+S00246,C0302,PodWave,Music,,2024-01-12,Monthly,Active,99.0,103.95,1,5.0,2027-02-18,Yes,103.95
+S00247,C0140,LearnLoop,Education,Starter,2023-01-04,Monthly,Active,573.85,573.85,0,0.0,2027-09-04,Yes,573.85
+S00248,C0215,TravelEase,Travel,Saver,2024-12-21,Annual,Cancelled,249.0,245.01,3,15.8,2027-02-08,Yes,245.01
+S00249,C0182,OfficePilot,Productivity,Personal,2026-08-14,Monthly,Active,549.0,730.72,3,33.1,2027-04-05,Yes,730.72
+S00250,C0085,StreamFlix,Video Streaming,Premium,2023-12-05,Monthly,Active,649.0,987.05,3,52.1,2026-11-23,Yes,987.05
+S00251,C0299,NewsDaily,News,Digital,2024-08-25,Monthly,Paused,149.0,164.27,2,10.2,2027-09-12,Yes,164.27
+S00252,C0307,StreamFlix,Video Streaming,Standard,2025-12-16,Monthly,Active,649.0,649.0,0,0.0,2027-05-01,Yes,649.0
+S00253,C0153,GameSphere,Gaming,Ultimate,2025-09-06,Monthly,Active,399.2,465.63,2,16.6,2027-09-06,Yes,465.63
+S00254,C0122,SkillSpring,Education,Monthly,2025-07-16,Monthly,Paused,639.2,801.81,2,25.4,2027-09-29,Yes,801.81
+S00255,C0316,TuneCloud,Music,Family,2025-10-20,Monthly,Active,95.2,109.48,1,15.0,2027-02-24,Yes,109.48
+S00256,C0111,BingeBox,Video Streaming,Mobile,2023-03-06,Monthly,Active,319.2,335.16,1,5.0,2027-09-12,Yes,335.16
+S00257,C0093,NewsDaily,News,Digital,2023-02-20,Annual,Active,149.0,141.85,1,12.0,2026-10-27,No,141.85
+S00258,C0104,TravelEase,Travel,Plus,2023-02-12,Monthly,Paused,199.2,232.35,2,16.6,2027-04-09,Yes,232.35
+S00259,C0256,GameSphere,Gaming,Ultimate,2023-04-07,Monthly,Cancelled,499.0,499.0,0,0.0,2027-02-17,Yes,499.0
+S00260,C0278,FitTrack+,Fitness,Annual,2024-05-28,Annual,Cancelled,299.0,292.27,1,15.0,2027-08-24,Yes,292.27
+S00261,C0100,DesignDeck,Productivity,Basic,2023-04-22,Monthly,Active,1033.85,1137.23,1,10.0,2027-07-09,Yes,1137.23
+S00262,C0277,LearnLoop,Education,Starter,2024-02-07,Monthly,Active,499.0,499.0,0,0.0,2027-09-04,No,499.0
+S00263,C0081,GameSphere,Gaming,Ultimate,2024-04-10,Monthly,Active,499.0,659.93,2,32.3,2027-03-27,Yes,659.93
+S00264,C0339,CloudNest,Cloud Storage,Family,2025-10-13,Annual,Active,199.0,212.19,2,25.4,2027-07-02,Yes,212.19
+S00265,C0044,SecureSurf,Security,Advanced,2024-09-02,Monthly,Active,205.85,272.24,2,32.3,2027-06-06,Yes,272.24
+S00266,C0185,MealMate,Food & Delivery,Max,2026-02-26,Monthly,Active,79.2,88.7,1,12.0,2027-04-29,Yes,88.7
+S00267,C0133,LearnLoop,Education,Pro,2024-10-25,Monthly,Active,399.2,399.2,0,0.0,2027-04-17,No,399.2
+S00268,C0213,CloudNest,Cloud Storage,100 GB,2026-01-16,Annual,Active,159.2,135.32,0,0.0,2027-09-16,Yes,135.32
+S00269,C0048,LearnLoop,Education,Starter,2024-07-31,Annual,Cancelled,499.0,491.0,3,15.8,2026-12-07,Yes,491.0
+S00270,C0099,SkillSpring,Education,Monthly,2024-01-19,Monthly,Cancelled,799.0,1056.68,2,32.3,2027-04-26,Yes,1056.68
+S00271,C0183,SkillSpring,Education,Annual,2023-04-14,Annual,Paused,918.85,781.02,0,0.0,2027-10-17,Yes,781.02
+S00272,C0198,TuneCloud,Music,Family,2023-09-04,Monthly,Active,136.85,136.85,0,0.0,2027-02-16,Yes,136.85
+S00273,C0050,TuneCloud,Music,Family,2025-09-24,Monthly,Paused,119.0,119.0,0,0.0,2027-08-02,Yes,119.0
+S00274,C0140,NewsDaily,News,Premium,2026-09-20,Monthly,Active,149.0,166.88,1,12.0,2027-08-07,Yes,166.88
+S00275,C0081,StreamFlix,Video Streaming,Premium,2023-12-25,Annual,Cancelled,519.2,587.4,3,33.1,2027-09-09,Yes,587.4
+S00276,C0239,BingeBox,Video Streaming,Mobile,2023-01-06,Monthly,Active,399.0,399.0,0,0.0,2027-10-03,Yes,399.0
+S00277,C0215,TuneCloud,Music,Individual,2024-05-03,Monthly,Cancelled,119.0,119.0,0,0.0,2027-06-08,Yes,119.0
+S00278,C0155,BingeBox,Video Streaming,Standard,2026-02-25,Monthly,Active,399.0,531.07,3,33.1,2027-06-10,No,531.07
+S00279,C0141,CloudNest,Cloud Storage,Family,2025-11-27,Monthly,Active,228.85,263.18,1,15.0,2027-06-18,No,263.18
+S00280,C0181,FitTrack+,Fitness,Annual,2024-10-08,Monthly,Active,299.0,299.0,0,0.0,2027-08-23,Yes,299.0
+S00281,C0226,StreamFlix,Video Streaming,Basic,2023-06-05,Monthly,Active,746.35,746.35,0,0.0,2026-11-14,Yes,746.35
+S00282,C0096,MealMate,Food & Delivery,Plus,2025-11-10,Monthly,Active,99.0,99.0,0,0.0,2027-02-16,Yes,99.0
+S00283,C0176,FitTrack+,Fitness,Monthly,2025-07-12,Annual,Cancelled,343.85,292.27,0,0.0,2027-01-12,Yes,292.27
+S00284,C0138,FitTrack+,Fitness,Monthly,2024-04-09,Monthly,Active,239.2,239.2,0,0.0,2027-03-14,Yes,239.2
+S00285,C0259,PodWave,Music,Free+,2026-06-19,Monthly,Active,113.85,132.79,2,16.6,2027-02-21,Yes,132.79
+S00286,C0022,BingeBox,Video Streaming,Family,2026-09-18,Monthly,Active,399.0,418.95,1,5.0,2027-01-02,No,418.95
+S00287,C0213,FitTrack+,Fitness,Annual,2025-07-27,Monthly,Active,239.2,267.9,1,12.0,2026-11-29,Yes,267.9
+S00288,C0100,StreamFlix,Video Streaming,Basic,2024-10-23,Monthly,Active,519.2,581.5,1,12.0,2027-09-14,Yes,581.5
+S00289,C0189,BingeBox,Video Streaming,Mobile,2025-06-23,Annual,Active,399.0,390.02,1,15.0,2027-04-05,Yes,390.02
+S00290,C0336,GameSphere,Gaming,Ultimate,2026-05-01,Annual,Paused,573.85,568.94,2,16.6,2027-07-20,Yes,568.94
+S00291,C0058,SkillSpring,Education,Annual,2025-07-14,Annual,Paused,918.85,874.74,1,12.0,2027-08-22,Yes,874.74
+S00292,C0198,GameSphere,Gaming,Ultimate,2025-01-15,Monthly,Active,573.85,694.36,2,21.0,2027-05-24,No,694.36
+S00293,C0078,DesignDeck,Productivity,Basic,2026-08-05,Annual,Active,1033.85,984.22,1,12.0,2027-01-12,Yes,984.22
+S00294,C0006,DesignDeck,Productivity,Basic,2023-10-06,Monthly,Active,899.0,1127.71,2,25.4,2027-02-16,Yes,1127.71
+S00295,C0266,GameSphere,Gaming,Core,2025-05-13,Annual,Active,499.0,424.15,0,0.0,2027-01-30,Yes,424.15
+S00296,C0053,PodWave,Music,Premium,2024-07-06,Monthly,Paused,79.2,79.2,0,0.0,2026-11-17,Yes,79.2
+S00297,C0078,OfficePilot,Productivity,Family,2025-06-16,Monthly,Paused,631.35,840.33,3,33.1,2027-07-02,Yes,840.33
+S00298,C0175,StreamFlix,Video Streaming,Premium,2026-01-12,Annual,Paused,746.35,891.28,3,40.5,2026-11-27,Yes,891.28
+S00299,C0125,TravelEase,Travel,Plus,2023-09-24,Monthly,Active,286.35,286.35,0,0.0,2027-03-03,Yes,286.35
+S00300,C0004,BingeBox,Video Streaming,Mobile,2023-05-18,Monthly,Paused,399.0,438.9,1,10.0,2027-06-20,Yes,438.9
+S00301,C0047,BingeBox,Video Streaming,Mobile,2023-04-16,Monthly,Active,399.0,399.0,0,0.0,2026-11-03,Yes,399.0
+S00302,C0216,GameSphere,Gaming,Ultimate,2026-07-06,Monthly,Active,499.0,499.0,0,0.0,2027-05-20,Yes,499.0
+S00303,C0347,TuneCloud,Music,Duo,2023-07-19,Monthly,Active,119.0,149.27,2,25.4,2027-08-03,Yes,149.27
+S00304,C0192,SkillSpring,Education,Annual,2024-01-27,Monthly,Active,799.0,799.0,0,0.0,2027-10-03,Yes,799.0
+S00305,C0275,LearnLoop,Education,Starter,2024-01-26,Monthly,Active,499.0,558.88,1,12.0,2027-07-04,Yes,558.88
+S00306,C0125,OfficePilot,Productivity,Family,2024-12-04,Monthly,Active,549.0,576.45,1,5.0,2027-10-12,Yes,576.45
+S00307,C0181,TuneCloud,Music,Individual,2024-12-25,Monthly,Active,119.0,119.0,0,0.0,2027-03-09,Yes,119.0
+S00308,C0133,FitTrack+,Fitness,Annual,2025-07-09,Monthly,Active,299.0,299.0,0,0.0,2027-04-16,Yes,299.0
+S00309,C0078,PodWave,Music,Premium,2024-01-16,Monthly,Active,99.0,99.0,0,0.0,2027-06-10,Yes,99.0
+S00310,C0058,StreamFlix,Video Streaming,Basic,2025-03-07,Monthly,Cancelled,746.35,806.06,1,8.0,2026-10-27,Yes,806.06
+S00311,C0125,TravelEase,Travel,Plus,2024-10-02,Annual,Active,249.0,228.58,1,8.0,2027-10-17,No,228.58
+S00312,C0291,TuneCloud,Music,Family,2024-12-02,Annual,Active,95.2,89.01,1,10.0,2027-05-03,Yes,89.01
+S00313,C0260,FitTrack+,Fitness,Monthly,2026-04-08,Monthly,Paused,239.2,239.2,0,0.0,2026-12-18,Yes,239.2
+S00314,C0037,OfficePilot,Productivity,Personal,2023-05-13,Monthly,Paused,631.35,763.93,2,21.0,2027-05-14,Yes,763.93
+S00315,C0285,FitTrack+,Fitness,Annual,2025-01-25,Monthly,Active,299.0,299.0,0,0.0,2027-05-04,Yes,299.0
+S00316,C0172,MealMate,Food & Delivery,Plus,2023-08-28,Monthly,Active,99.0,114.6,3,15.8,2027-01-10,No,114.6
+S00317,C0035,TravelEase,Travel,Saver,2025-06-11,Monthly,Active,249.0,268.92,1,8.0,2027-05-01,Yes,268.92
+S00318,C0157,OfficePilot,Productivity,Personal,2024-07-07,Monthly,Active,549.0,549.0,0,0.0,2026-11-22,Yes,549.0
+S00319,C0291,MealMate,Food & Delivery,Plus,2024-03-16,Monthly,Active,79.2,79.2,0,0.0,2027-09-11,No,79.2
+S00320,C0222,DesignDeck,Productivity,Pro,2023-06-03,Monthly,Cancelled,719.2,776.74,1,8.0,2027-10-23,Yes,776.74
+S00321,C0119,StreamFlix,Video Streaming,Basic,2023-06-27,Monthly,Active,649.0,649.0,0,0.0,2027-03-01,Yes,649.0
+S00322,C0067,BingeBox,Video Streaming,Standard,2025-05-11,Monthly,Active,458.85,458.85,0,0.0,2027-05-05,Yes,458.85
+S00323,C0319,BingeBox,Video Streaming,Mobile,2025-07-29,Monthly,Active,399.0,430.92,1,8.0,2026-11-27,Yes,430.92
+S00324,C0004,StreamFlix,Video Streaming,Standard,2024-08-17,Annual,Cancelled,519.2,463.39,1,5.0,2027-10-23,Yes,463.39
+S00325,C0252,PodWave,Music,Free+,2023-01-11,Monthly,Active,79.2,79.2,0,0.0,2026-11-30,Yes,79.2
+S00326,C0227,PodWave,Music,Premium,2026-07-17,Monthly,Active,113.85,113.85,0,0.0,2027-05-11,Yes,113.85
+S00327,C0143,CloudNest,Cloud Storage,100 GB,2024-01-27,Monthly,Active,199.0,199.0,0,0.0,2027-10-01,Yes,199.0
+S00328,C0227,LearnLoop,Education,Starter,2026-08-11,Monthly,Active,399.2,527.94,2,32.2,2027-01-15,No,527.94
+S00329,C0257,SecureSurf,Security,Advanced,2024-08-19,Monthly,Cancelled,179.0,200.48,1,12.0,2027-04-20,Yes,200.48
+S00330,C0271,SkillSpring,Education,Annual,2026-01-16,Monthly,Cancelled,639.2,715.9,1,12.0,2027-02-18,No,715.9
+S00331,C0314,GameSphere,Gaming,Core,2025-08-09,Monthly,Active,399.2,560.85,3,40.5,2027-04-20,Yes,560.85
+S00332,C0118,DesignDeck,Productivity,Basic,2024-08-26,Annual,Active,1033.85,922.71,1,5.0,2027-05-14,No,922.71
+S00333,C0065,SecureSurf,Security,Basic,2023-06-12,Monthly,Active,179.0,216.59,2,21.0,2027-10-14,Yes,216.59
+S00334,C0073,GameSphere,Gaming,Core,2025-06-18,Monthly,Active,499.0,573.85,1,15.0,2027-09-24,Yes,573.85
+S00335,C0211,BingeBox,Video Streaming,Standard,2023-05-13,Monthly,Active,319.2,351.12,1,10.0,2027-06-20,Yes,351.12
+S00336,C0059,TuneCloud,Music,Duo,2024-02-06,Monthly,Cancelled,119.0,119.0,0,0.0,2027-05-12,Yes,119.0
+S00337,C0054,BingeBox,Video Streaming,Mobile,2024-10-15,Monthly,Active,319.2,386.23,2,21.0,2027-08-28,Yes,386.23
+S00338,C0076,CloudNest,Cloud Storage,1 TB,2024-04-02,Monthly,Active,199.0,240.79,2,21.0,2027-02-11,Yes,240.79
+S00339,C0110,StreamFlix,Video Streaming,Premium,2026-08-10,Monthly,Active,649.0,785.29,2,21.0,2027-09-26,No,785.29
+S00340,C0312,SkillSpring,Education,Annual,2024-04-09,Monthly,Cancelled,918.85,918.85,0,0.0,2027-05-30,Yes,918.85
+S00341,C0246,GameSphere,Gaming,Ultimate,2025-03-26,Monthly,Active,573.85,631.24,1,10.0,2027-10-25,Yes,631.24
+S00342,C0197,TravelEase,Travel,Plus,2025-05-23,Monthly,Active,249.0,261.45,1,5.0,2027-04-01,Yes,261.45
+S00343,C0044,MealMate,Food & Delivery,Max,2025-11-04,Monthly,Active,99.0,124.19,2,25.4,2027-03-18,Yes,124.19
+S00344,C0180,TuneCloud,Music,Duo,2023-03-23,Monthly,Active,95.2,106.62,1,12.0,2027-04-03,Yes,106.62
+S00345,C0116,LearnLoop,Education,Starter,2025-09-09,Monthly,Active,499.0,499.0,0,0.0,2027-09-23,Yes,499.0
+S00346,C0233,TuneCloud,Music,Duo,2024-12-21,Monthly,Active,136.85,143.69,1,5.0,2027-06-17,Yes,143.69
+S00347,C0140,LearnLoop,Education,Pro,2026-04-25,Monthly,Active,573.85,669.34,2,16.6,2027-10-25,Yes,669.34
+S00348,C0121,SecureSurf,Security,Advanced,2026-07-02,Monthly,Active,179.0,197.35,2,10.3,2027-07-18,Yes,197.35
+S00349,C0172,NewsDaily,News,Premium,2025-06-11,Monthly,Active,119.2,119.2,0,0.0,2026-11-21,Yes,119.2
+S00350,C0349,NewsDaily,News,Premium,2026-05-19,Monthly,Cancelled,149.0,171.35,1,15.0,2026-12-08,Yes,171.35
+S00351,C0239,NewsDaily,News,Digital,2026-03-06,Monthly,Active,119.2,125.16,1,5.0,2027-07-26,Yes,125.16
+S00352,C0189,BingeBox,Video Streaming,Standard,2025-11-09,Monthly,Active,399.0,399.0,0,0.0,2027-04-09,Yes,399.0
+S00353,C0029,StreamFlix,Video Streaming,Premium,2023-09-20,Monthly,Active,746.35,820.99,1,10.0,2027-01-01,Yes,820.99
+S00354,C0289,MealMate,Food & Delivery,Plus,2025-09-03,Annual,Active,99.0,84.15,0,0.0,2027-05-18,Yes,84.15
+S00355,C0165,GameSphere,Gaming,Ultimate,2025-08-26,Monthly,Cancelled,399.2,399.2,0,0.0,2027-03-16,Yes,399.2
+S00356,C0223,NewsDaily,News,Premium,2023-07-04,Annual,Active,149.0,139.32,1,10.0,2027-07-16,Yes,139.32
+S00357,C0342,NewsDaily,News,Digital,2024-01-11,Annual,Active,149.0,126.65,0,0.0,2027-01-03,Yes,126.65
+S00358,C0295,LearnLoop,Education,Starter,2024-11-18,Monthly,Cancelled,573.85,573.85,0,0.0,2027-10-12,No,573.85
+S00359,C0326,SkillSpring,Education,Annual,2024-03-13,Annual,Active,799.0,821.77,2,21.0,2027-08-12,Yes,821.77
+S00360,C0045,MealMate,Food & Delivery,Max,2023-05-07,Monthly,Cancelled,79.2,79.2,0,0.0,2027-03-23,Yes,79.2
+S00361,C0339,PodWave,Music,Free+,2023-06-25,Annual,Active,99.0,84.15,0,0.0,2027-09-19,Yes,84.15
+S00362,C0203,CloudNest,Cloud Storage,Family,2023-09-27,Monthly,Active,159.2,159.2,0,0.0,2026-11-23,Yes,159.2
+S00363,C0073,CloudNest,Cloud Storage,1 TB,2026-09-27,Annual,Active,199.0,194.52,1,15.0,2027-04-17,Yes,194.52
+S00364,C0255,StreamFlix,Video Streaming,Basic,2024-06-19,Monthly,Active,649.0,649.0,0,0.0,2027-10-05,No,649.0
+S00365,C0082,NewsDaily,News,Digital,2024-01-20,Annual,Paused,119.2,111.45,1,10.0,2027-10-03,Yes,111.45
+S00366,C0207,CloudNest,Cloud Storage,Family,2023-02-26,Monthly,Active,199.0,199.0,0,0.0,2027-01-08,Yes,199.0
+S00367,C0133,TravelEase,Travel,Plus,2026-07-13,Annual,Active,199.2,213.29,3,26.0,2026-11-20,Yes,213.29
+S00368,C0091,StreamFlix,Video Streaming,Basic,2025-12-25,Monthly,Active,649.0,858.3,2,32.2,2026-12-12,Yes,858.3
+S00369,C0189,SecureSurf,Security,Advanced,2026-09-20,Monthly,Paused,205.85,258.22,2,25.4,2027-05-04,Yes,258.22
+S00370,C0244,StreamFlix,Video Streaming,Standard,2024-11-05,Monthly,Active,746.35,858.3,1,15.0,2027-10-09,Yes,858.3
+S00371,C0249,SkillSpring,Education,Monthly,2026-06-28,Monthly,Active,799.0,1215.18,3,52.1,2027-07-25,Yes,1215.18
+S00372,C0154,FitTrack+,Fitness,Monthly,2023-02-19,Monthly,Active,299.0,299.0,0,0.0,2027-05-01,Yes,299.0
+S00373,C0150,BingeBox,Video Streaming,Family,2025-09-20,Monthly,Active,458.85,458.85,0,0.0,2027-05-05,Yes,458.85
+S00374,C0038,TravelEase,Travel,Plus,2024-11-18,Monthly,Active,249.0,249.0,0,0.0,2027-07-16,Yes,249.0
+S00375,C0093,OfficePilot,Productivity,Family,2023-03-09,Monthly,Active,549.0,614.88,1,12.0,2026-12-31,Yes,614.88
+S00376,C0239,GameSphere,Gaming,Ultimate,2024-11-28,Annual,Active,399.2,339.32,0,0.0,2027-04-15,Yes,339.32
+S00377,C0131,BingeBox,Video Streaming,Family,2024-11-05,Monthly,Active,399.0,399.0,0,0.0,2027-07-25,Yes,399.0
+S00378,C0335,StreamFlix,Video Streaming,Standard,2024-02-01,Monthly,Active,519.2,560.74,1,8.0,2027-02-15,Yes,560.74
+S00379,C0124,FitTrack+,Fitness,Annual,2025-01-13,Monthly,Active,239.2,239.2,0,0.0,2027-01-21,No,239.2
+S00380,C0281,FitTrack+,Fitness,Annual,2025-10-18,Monthly,Active,299.0,343.85,1,15.0,2027-08-25,Yes,343.85
+S00381,C0161,PodWave,Music,Free+,2023-07-29,Monthly,Active,113.85,137.76,2,21.0,2026-12-06,Yes,137.76
+S00382,C0100,StreamFlix,Video Streaming,Standard,2023-06-29,Monthly,Active,746.35,1048.57,3,40.5,2027-06-22,Yes,1048.57
+S00383,C0239,CloudNest,Cloud Storage,100 GB,2024-02-27,Monthly,Active,159.2,199.7,2,25.4,2027-03-29,No,199.7
+S00384,C0234,BingeBox,Video Streaming,Mobile,2025-03-23,Annual,Active,319.2,312.02,1,15.0,2027-10-24,Yes,312.02
+S00385,C0007,StreamFlix,Video Streaming,Standard,2026-07-06,Annual,Active,649.0,595.78,1,8.0,2027-05-10,No,595.78
+S00386,C0157,OfficePilot,Productivity,Personal,2026-04-04,Monthly,Active,631.35,631.35,0,0.0,2027-09-07,Yes,631.35
+S00387,C0268,SkillSpring,Education,Monthly,2026-09-28,Monthly,Active,799.0,931.95,2,16.6,2027-10-25,Yes,931.95
+S00388,C0349,LearnLoop,Education,Starter,2023-10-27,Monthly,Active,573.85,694.36,2,21.0,2026-11-02,Yes,694.36
+S00389,C0003,FitTrack+,Fitness,Monthly,2025-12-23,Monthly,Active,299.0,299.0,0,0.0,2027-07-30,Yes,299.0
+S00390,C0301,StreamFlix,Video Streaming,Premium,2025-03-20,Monthly,Active,519.2,519.2,0,0.0,2027-04-02,Yes,519.2
+S00391,C0257,FitTrack+,Fitness,Monthly,2026-08-05,Monthly,Active,343.85,416.06,2,21.0,2027-07-21,Yes,416.06
+S00392,C0294,CloudNest,Cloud Storage,100 GB,2025-07-12,Monthly,Active,228.85,228.85,0,0.0,2027-06-22,Yes,228.85
+S00393,C0008,MealMate,Food & Delivery,Max,2025-08-19,Annual,Active,79.2,77.42,1,15.0,2026-11-13,Yes,77.42
+S00394,C0051,TuneCloud,Music,Duo,2025-08-23,Monthly,Active,136.85,136.85,0,0.0,2027-07-18,Yes,136.85
+S00395,C0083,OfficePilot,Productivity,Personal,2024-04-17,Monthly,Active,549.0,726.05,2,32.2,2027-08-03,Yes,726.05
+S00396,C0227,TuneCloud,Music,Family,2023-01-14,Monthly,Active,119.0,131.2,2,10.3,2026-12-24,Yes,131.2
+S00397,C0222,CloudNest,Cloud Storage,1 TB,2024-11-17,Annual,Active,199.0,223.7,2,32.3,2026-12-25,Yes,223.7
+S00398,C0108,StreamFlix,Video Streaming,Premium,2026-02-15,Annual,Paused,649.0,551.65,0,0.0,2027-07-01,No,551.65
+S00399,C0237,GameSphere,Gaming,Ultimate,2023-04-08,Monthly,Cancelled,499.0,550.15,2,10.3,2027-06-18,Yes,550.15
+S00400,C0340,BingeBox,Video Streaming,Family,2024-07-06,Monthly,Active,319.2,485.46,3,52.1,2027-04-03,Yes,485.46
+S00401,C0160,TravelEase,Travel,Plus,2025-05-31,Annual,Active,286.35,262.87,1,8.0,2027-07-09,Yes,262.87
+S00402,C0252,SecureSurf,Security,Basic,2023-07-29,Monthly,Active,205.85,205.85,0,0.0,2027-06-30,Yes,205.85
+S00403,C0204,SkillSpring,Education,Monthly,2025-01-31,Monthly,Cancelled,799.0,862.92,1,8.0,2027-01-13,No,862.92
+S00404,C0178,CloudNest,Cloud Storage,100 GB,2024-01-15,Monthly,Active,228.85,228.85,0,0.0,2027-01-06,Yes,228.85
+S00405,C0219,TuneCloud,Music,Individual,2025-08-21,Monthly,Active,119.0,119.0,0,0.0,2027-02-28,Yes,119.0
+S00406,C0192,StreamFlix,Video Streaming,Basic,2023-01-22,Annual,Cancelled,649.0,551.65,0,0.0,2027-02-03,Yes,551.65
+S00407,C0263,LearnLoop,Education,Starter,2023-10-02,Monthly,Active,573.85,694.36,2,21.0,2026-12-12,No,694.36
+S00408,C0143,StreamFlix,Video Streaming,Premium,2026-09-22,Monthly,Cancelled,649.0,649.0,0,0.0,2027-07-04,Yes,649.0
+S00409,C0154,FitTrack+,Fitness,Annual,2025-05-28,Monthly,Active,343.85,343.85,0,0.0,2027-09-11,Yes,343.85
+S00410,C0348,TuneCloud,Music,Individual,2023-02-19,Monthly,Active,119.0,119.0,0,0.0,2026-12-06,No,119.0
+S00411,C0251,StreamFlix,Video Streaming,Premium,2024-04-13,Monthly,Active,746.35,936.22,2,25.4,2027-10-25,Yes,936.22
+S00412,C0148,DesignDeck,Productivity,Pro,2023-01-08,Monthly,Cancelled,899.0,899.0,0,0.0,2027-07-19,Yes,899.0
+S00413,C0147,LearnLoop,Education,Starter,2023-11-21,Monthly,Active,499.0,603.79,2,21.0,2027-10-18,Yes,603.79
+S00414,C0091,TuneCloud,Music,Individual,2026-01-18,Monthly,Active,95.2,104.72,1,10.0,2026-12-27,Yes,104.72
+S00415,C0092,TravelEase,Travel,Plus,2024-08-25,Monthly,Active,249.0,249.0,0,0.0,2027-03-01,Yes,249.0
+S00416,C0147,SkillSpring,Education,Monthly,2025-10-18,Monthly,Active,799.0,894.88,1,12.0,2026-11-21,Yes,894.88
+S00417,C0021,FitTrack+,Fitness,Annual,2023-08-09,Annual,Active,299.0,280.2,2,10.3,2027-03-01,Yes,280.2
+S00418,C0265,StreamFlix,Video Streaming,Premium,2024-04-20,Monthly,Active,519.2,571.12,1,10.0,2027-01-11,Yes,571.12
+S00419,C0193,StreamFlix,Video Streaming,Basic,2024-12-20,Monthly,Active,649.0,700.92,1,8.0,2027-09-09,Yes,700.92
+S00420,C0011,LearnLoop,Education,Starter,2026-01-20,Monthly,Cancelled,573.85,631.24,1,10.0,2027-03-27,No,631.24
+S00421,C0113,SkillSpring,Education,Annual,2024-10-20,Monthly,Active,918.85,964.79,1,5.0,2027-04-05,Yes,964.79
+S00422,C0259,DesignDeck,Productivity,Basic,2023-03-02,Monthly,Active,899.0,1006.88,1,12.0,2026-10-28,Yes,1006.88
+S00423,C0172,StreamFlix,Video Streaming,Standard,2025-10-28,Annual,Cancelled,649.0,606.81,1,10.0,2027-02-16,Yes,606.81
+S00424,C0140,MealMate,Food & Delivery,Max,2023-08-11,Monthly,Active,99.0,115.47,2,16.6,2026-12-15,Yes,115.47
+S00425,C0265,SecureSurf,Security,Basic,2024-11-18,Annual,Active,179.0,152.15,0,0.0,2027-01-03,Yes,152.15
+S00426,C0199,BingeBox,Video Streaming,Standard,2024-08-14,Monthly,Active,319.2,351.12,1,10.0,2027-08-20,Yes,351.12
+S00427,C0161,CloudNest,Cloud Storage,1 TB,2023-09-02,Monthly,Cancelled,199.0,228.85,1,15.0,2027-04-30,Yes,228.85
+S00428,C0078,SkillSpring,Education,Monthly,2026-09-30,Monthly,Active,799.0,862.92,1,8.0,2027-07-14,Yes,862.92
+S00429,C0344,FitTrack+,Fitness,Monthly,2026-02-21,Monthly,Cancelled,239.2,275.08,1,15.0,2027-08-10,Yes,275.08
+S00430,C0015,GameSphere,Gaming,Ultimate,2023-08-30,Monthly,Active,499.0,659.93,2,32.3,2026-11-22,Yes,659.93
+S00431,C0006,FitTrack+,Fitness,Annual,2025-06-04,Monthly,Active,299.0,322.92,1,8.0,2027-03-20,Yes,322.92
+S00432,C0150,GameSphere,Gaming,Core,2023-02-17,Monthly,Active,399.2,440.12,2,10.3,2027-08-17,No,440.12
+S00433,C0182,OfficePilot,Productivity,Personal,2025-04-19,Monthly,Cancelled,439.2,439.2,0,0.0,2027-04-29,Yes,439.2
+S00434,C0301,StreamFlix,Video Streaming,Standard,2025-04-01,Monthly,Active,649.0,649.0,0,0.0,2027-04-06,Yes,649.0
+S00435,C0183,CloudNest,Cloud Storage,Family,2025-08-27,Monthly,Active,199.0,222.88,1,12.0,2027-01-15,Yes,222.88
+S00436,C0210,CloudNest,Cloud Storage,100 GB,2025-11-06,Monthly,Cancelled,199.0,199.0,0,0.0,2027-09-05,Yes,199.0
+S00437,C0295,SecureSurf,Security,Basic,2024-03-17,Monthly,Active,143.2,143.2,0,0.0,2027-04-06,Yes,143.2
+S00438,C0021,SkillSpring,Education,Monthly,2025-05-02,Monthly,Active,918.85,1152.61,2,25.4,2027-04-27,No,1152.61
+S00439,C0050,CloudNest,Cloud Storage,Family,2024-04-10,Monthly,Active,228.85,228.85,0,0.0,2027-07-03,Yes,228.85
+S00440,C0014,SecureSurf,Security,Basic,2026-04-08,Annual,Active,179.0,177.47,2,16.6,2027-07-27,Yes,177.47
+S00441,C0347,BingeBox,Video Streaming,Standard,2025-09-24,Monthly,Active,399.0,500.51,2,25.4,2027-04-18,Yes,500.51
+S00442,C0113,TuneCloud,Music,Family,2024-12-25,Monthly,Active,136.85,153.27,1,12.0,2027-08-10,Yes,153.27
+S00443,C0274,DesignDeck,Productivity,Basic,2026-09-07,Monthly,Active,899.0,899.0,0,0.0,2027-09-05,No,899.0
+S00444,C0327,NewsDaily,News,Premium,2023-03-08,Monthly,Active,149.0,197.05,2,32.2,2027-06-23,Yes,197.05
+S00445,C0217,SecureSurf,Security,Basic,2025-05-07,Monthly,Active,143.2,143.2,0,0.0,2027-09-05,Yes,143.2
+S00446,C0079,BingeBox,Video Streaming,Mobile,2023-03-29,Monthly,Active,399.0,399.0,0,0.0,2027-01-21,Yes,399.0
+S00447,C0204,CloudNest,Cloud Storage,100 GB,2025-02-23,Monthly,Cancelled,199.0,199.0,0,0.0,2027-02-19,Yes,199.0
+S00448,C0021,BingeBox,Video Streaming,Standard,2025-11-17,Monthly,Active,458.85,505.88,2,10.2,2027-09-24,Yes,505.88
+S00449,C0086,PodWave,Music,Free+,2025-04-04,Monthly,Active,99.0,99.0,0,0.0,2027-09-27,No,99.0
+S00450,C0094,PodWave,Music,Premium,2025-06-24,Monthly,Active,99.0,99.0,0,0.0,2026-12-27,Yes,99.0
+S00451,C0119,OfficePilot,Productivity,Personal,2023-12-24,Monthly,Active,631.35,631.35,0,0.0,2026-11-12,Yes,631.35
+S00452,C0295,FitTrack+,Fitness,Annual,2023-10-05,Monthly,Active,239.2,251.16,1,5.0,2027-01-09,Yes,251.16
+S00453,C0300,LearnLoop,Education,Pro,2024-11-02,Annual,Paused,499.0,466.56,1,10.0,2027-09-27,Yes,466.56
+S00454,C0114,CloudNest,Cloud Storage,1 TB,2025-12-15,Monthly,Active,199.0,199.0,0,0.0,2027-05-31,No,199.0
+S00455,C0024,SkillSpring,Education,Monthly,2024-02-27,Annual,Active,799.0,679.15,0,0.0,2027-09-18,Yes,679.15
+S00456,C0046,BingeBox,Video Streaming,Mobile,2023-08-29,Monthly,Cancelled,399.0,438.9,1,10.0,2027-01-24,No,438.9
+S00457,C0339,SecureSurf,Security,Basic,2026-01-09,Monthly,Active,143.2,157.52,1,10.0,2027-05-18,Yes,157.52
+S00458,C0020,SkillSpring,Education,Annual,2026-09-02,Monthly,Active,799.0,799.0,0,0.0,2026-12-27,Yes,799.0
+S00459,C0074,SkillSpring,Education,Annual,2026-09-05,Monthly,Active,799.0,799.0,0,0.0,2027-02-04,Yes,799.0
+S00460,C0081,SkillSpring,Education,Monthly,2025-03-29,Monthly,Active,918.85,918.85,0,0.0,2027-04-23,Yes,918.85
+S00461,C0295,CloudNest,Cloud Storage,100 GB,2024-08-17,Monthly,Active,199.0,199.0,0,0.0,2027-10-02,Yes,199.0
+S00462,C0263,TuneCloud,Music,Family,2026-01-24,Annual,Active,119.0,133.77,2,32.3,2027-03-01,Yes,133.77
+S00463,C0006,OfficePilot,Productivity,Family,2025-04-09,Monthly,Active,631.35,736.41,2,16.6,2027-05-20,Yes,736.41
+S00464,C0261,LearnLoop,Education,Pro,2026-03-21,Monthly,Paused,399.2,399.2,0,0.0,2027-05-01,Yes,399.2
+S00465,C0263,TravelEase,Travel,Plus,2023-04-24,Monthly,Paused,199.2,230.6,3,15.8,2027-06-03,Yes,230.6
+S00466,C0244,TuneCloud,Music,Duo,2023-05-26,Monthly,Active,119.0,133.28,1,12.0,2027-05-16,Yes,133.28
+S00467,C0274,SecureSurf,Security,Advanced,2023-09-04,Annual,Active,179.0,152.15,0,0.0,2027-01-15,Yes,152.15
+S00468,C0184,StreamFlix,Video Streaming,Basic,2026-03-18,Monthly,Active,519.2,651.28,2,25.4,2027-06-10,No,651.28
+S00469,C0091,NewsDaily,News,Digital,2023-04-17,Monthly,Active,171.35,188.48,1,10.0,2027-09-18,Yes,188.48
+S00470,C0344,TuneCloud,Music,Duo,2023-05-20,Monthly,Active,95.2,95.2,0,0.0,2027-02-22,Yes,95.2
+S00471,C0343,TravelEase,Travel,Plus,2024-11-17,Monthly,Active,199.2,223.1,1,12.0,2027-06-20,Yes,223.1
+S00472,C0088,PodWave,Music,Free+,2025-05-27,Monthly,Active,99.0,110.88,1,12.0,2027-08-28,Yes,110.88
+S00473,C0087,StreamFlix,Video Streaming,Basic,2023-01-24,Monthly,Active,649.0,713.9,1,10.0,2027-06-24,Yes,713.9
+S00474,C0120,MealMate,Food & Delivery,Plus,2024-03-27,Monthly,Active,79.2,87.12,1,10.0,2027-09-18,Yes,87.12
+S00475,C0261,OfficePilot,Productivity,Personal,2023-06-12,Monthly,Active,631.35,887.0,3,40.5,2027-04-06,Yes,887.0
+S00476,C0348,BingeBox,Video Streaming,Mobile,2026-02-15,Monthly,Active,319.2,344.74,1,8.0,2026-12-28,No,344.74
+S00477,C0055,StreamFlix,Video Streaming,Basic,2026-05-16,Monthly,Cancelled,649.0,649.0,0,0.0,2027-10-13,Yes,649.0
+S00478,C0085,StreamFlix,Video Streaming,Standard,2024-04-04,Monthly,Active,649.0,649.0,0,0.0,2026-12-03,Yes,649.0
+S00479,C0151,LearnLoop,Education,Starter,2026-07-04,Monthly,Active,399.2,399.2,0,0.0,2027-01-05,No,399.2
+S00480,C0072,FitTrack+,Fitness,Monthly,2025-11-07,Monthly,Active,299.0,334.88,1,12.0,2027-01-02,Yes,334.88
+S00481,C0096,TuneCloud,Music,Individual,2023-05-30,Monthly,Active,119.0,119.0,0,0.0,2027-04-13,Yes,119.0
+S00482,C0193,NewsDaily,News,Digital,2023-05-07,Monthly,Paused,149.0,149.0,0,0.0,2027-01-29,No,149.0
+S00483,C0349,FitTrack+,Fitness,Annual,2026-02-03,Monthly,Active,299.0,299.0,0,0.0,2027-06-21,No,299.0
+S00484,C0293,StreamFlix,Video Streaming,Standard,2025-09-28,Annual,Active,649.0,608.19,2,10.2,2027-09-26,No,608.19
+S00485,C0209,MealMate,Food & Delivery,Max,2024-07-17,Monthly,Active,99.0,130.93,2,32.3,2027-05-25,Yes,130.93
+S00486,C0267,TuneCloud,Music,Family,2026-08-20,Monthly,Active,136.85,157.38,1,15.0,2027-01-07,Yes,157.38
+S00487,C0300,CloudNest,Cloud Storage,100 GB,2025-10-09,Monthly,Active,199.0,218.9,1,10.0,2027-09-06,Yes,218.9
+S00488,C0099,TuneCloud,Music,Family,2024-03-10,Monthly,Active,119.0,119.0,0,0.0,2027-05-17,Yes,119.0
+S00489,C0058,OfficePilot,Productivity,Personal,2023-02-21,Monthly,Active,631.35,631.35,0,0.0,2027-01-02,Yes,631.35
+S00490,C0341,OfficePilot,Productivity,Personal,2025-08-07,Monthly,Cancelled,549.0,603.9,1,10.0,2026-11-10,Yes,603.9
+S00491,C0174,OfficePilot,Productivity,Personal,2026-03-11,Monthly,Active,631.35,631.35,0,0.0,2026-12-19,No,631.35
+S00492,C0270,PodWave,Music,Free+,2025-03-10,Monthly,Active,113.85,132.79,2,16.6,2027-01-25,Yes,132.79
+S00493,C0117,OfficePilot,Productivity,Family,2024-01-04,Annual,Active,631.35,536.65,0,0.0,2027-02-27,Yes,536.65
+S00494,C0298,StreamFlix,Video Streaming,Basic,2025-08-14,Annual,Active,649.0,608.19,2,10.2,2027-06-27,Yes,608.19
+S00495,C0186,OfficePilot,Productivity,Family,2025-12-02,Monthly,Active,631.35,887.0,3,40.5,2027-06-01,No,887.0
+S00496,C0146,StreamFlix,Video Streaming,Standard,2026-03-07,Monthly,Cancelled,519.2,628.23,2,21.0,2027-09-14,No,628.23
+S00497,C0016,PodWave,Music,Premium,2025-03-27,Monthly,Active,79.2,120.45,3,52.1,2026-11-07,Yes,120.45
+S00498,C0105,DesignDeck,Productivity,Basic,2023-08-10,Monthly,Active,719.2,838.87,2,16.6,2027-01-14,Yes,838.87
+S00499,C0096,GameSphere,Gaming,Core,2025-06-24,Monthly,Cancelled,399.2,399.2,0,0.0,2027-04-11,Yes,399.2
+S00500,C0290,LearnLoop,Education,Pro,2023-06-13,Monthly,Active,499.0,538.92,1,8.0,2027-02-17,Yes,538.92
+S00501,C0181,BingeBox,Video Streaming,Family,2025-05-05,Monthly,Active,399.0,399.0,0,0.0,2027-05-16,Yes,399.0
+S00502,C0265,NewsDaily,News,Digital,2026-05-14,Monthly,Active,149.0,186.91,2,25.4,2027-02-24,Yes,186.91
+S00503,C0117,SecureSurf,Security,Basic,2024-09-16,Monthly,Active,143.2,143.2,0,0.0,2027-03-16,Yes,143.2
+S00504,C0323,OfficePilot,Productivity,Family,2026-06-18,Monthly,Active,631.35,791.97,2,25.4,2027-09-30,Yes,791.97
+S00505,C0284,FitTrack+,Fitness,Annual,2024-05-18,Annual,Active,299.0,254.15,0,0.0,2027-08-25,Yes,254.15
+S00506,C0026,NewsDaily,News,Digital,2023-08-07,Annual,Active,171.35,169.88,2,16.6,2027-10-12,Yes,169.88
+S00507,C0258,LearnLoop,Education,Pro,2023-03-29,Annual,Active,399.2,373.25,1,10.0,2027-07-26,Yes,373.25
+S00508,C0062,OfficePilot,Productivity,Personal,2024-08-15,Monthly,Active,439.2,439.2,0,0.0,2027-07-04,Yes,439.2
+S00509,C0104,NewsDaily,News,Digital,2023-07-16,Monthly,Active,171.35,171.35,0,0.0,2027-05-04,Yes,171.35
+S00510,C0212,BingeBox,Video Streaming,Family,2026-06-03,Monthly,Active,399.0,399.0,0,0.0,2027-01-11,No,399.0
+S00511,C0266,StreamFlix,Video Streaming,Basic,2024-06-25,Annual,Cancelled,649.0,579.23,1,5.0,2027-09-14,Yes,579.23
+S00512,C0220,GameSphere,Gaming,Core,2024-11-16,Annual,Active,499.0,487.77,1,15.0,2027-01-21,Yes,487.77
+S00513,C0321,TuneCloud,Music,Family,2023-11-08,Monthly,Active,95.2,95.2,0,0.0,2026-12-28,Yes,95.2
+S00514,C0120,PodWave,Music,Premium,2023-02-12,Monthly,Active,79.2,91.08,1,15.0,2027-08-09,Yes,91.08
+S00515,C0031,PodWave,Music,Free+,2024-05-03,Monthly,Active,79.2,111.27,3,40.5,2026-12-30,Yes,111.27
+S00516,C0222,TuneCloud,Music,Duo,2023-10-22,Monthly,Cancelled,119.0,124.95,1,5.0,2027-02-06,Yes,124.95
+S00517,C0047,NewsDaily,News,Premium,2025-09-26,Annual,Active,149.0,167.49,2,32.2,2027-05-04,Yes,167.49
+S00518,C0159,CloudNest,Cloud Storage,100 GB,2024-10-18,Monthly,Active,199.0,199.0,0,0.0,2027-10-13,Yes,199.0
+S00519,C0015,TuneCloud,Music,Duo,2023-03-16,Monthly,Active,136.85,153.27,1,12.0,2027-06-28,Yes,153.27
+S00520,C0116,BingeBox,Video Streaming,Standard,2023-11-10,Monthly,Active,399.0,527.68,2,32.3,2027-02-14,Yes,527.68
+S00521,C0091,PodWave,Music,Premium,2025-05-10,Monthly,Active,79.2,79.2,0,0.0,2027-10-02,Yes,79.2
+S00522,C0258,MealMate,Food & Delivery,Plus,2023-03-26,Monthly,Cancelled,79.2,79.2,0,0.0,2027-04-27,Yes,79.2
+S00523,C0038,OfficePilot,Productivity,Family,2023-11-13,Monthly,Active,631.35,763.93,2,21.0,2027-07-08,Yes,763.93
+S00524,C0259,SecureSurf,Security,Advanced,2023-10-12,Monthly,Active,179.0,179.0,0,0.0,2027-04-23,No,179.0
+S00525,C0097,StreamFlix,Video Streaming,Standard,2026-06-03,Monthly,Active,649.0,726.88,1,12.0,2027-09-26,Yes,726.88
+S00526,C0344,StreamFlix,Video Streaming,Standard,2024-02-01,Monthly,Active,746.35,903.08,2,21.0,2027-05-15,Yes,903.08
+S00527,C0193,DesignDeck,Productivity,Basic,2025-04-07,Monthly,Active,719.2,902.16,2,25.4,2027-02-08,Yes,902.16
+S00528,C0053,NewsDaily,News,Digital,2026-08-21,Monthly,Active,149.0,149.0,0,0.0,2027-04-06,Yes,149.0
+S00529,C0325,CloudNest,Cloud Storage,100 GB,2024-04-13,Monthly,Active,199.0,219.4,2,10.3,2026-11-17,Yes,219.4
+S00530,C0341,StreamFlix,Video Streaming,Standard,2026-03-19,Monthly,Active,519.2,571.12,1,10.0,2027-01-30,Yes,571.12
+S00531,C0059,GameSphere,Gaming,Core,2025-05-13,Monthly,Active,573.85,619.76,1,8.0,2027-06-11,Yes,619.76
+S00532,C0347,BingeBox,Video Streaming,Standard,2026-09-10,Monthly,Active,458.85,513.91,1,12.0,2027-05-30,Yes,513.91
+S00533,C0248,GameSphere,Gaming,Ultimate,2023-08-06,Monthly,Active,399.2,500.76,2,25.4,2027-03-28,Yes,500.76
+S00534,C0016,OfficePilot,Productivity,Personal,2026-07-22,Monthly,Paused,549.0,640.35,2,16.6,2027-06-23,No,640.35
+S00535,C0240,SkillSpring,Education,Monthly,2023-11-10,Monthly,Active,799.0,966.79,2,21.0,2026-12-26,Yes,966.79
+S00536,C0294,FitTrack+,Fitness,Annual,2026-03-27,Monthly,Active,239.2,275.08,1,15.0,2027-03-29,Yes,275.08
+S00537,C0338,TravelEase,Travel,Plus,2023-12-11,Monthly,Cancelled,249.0,249.0,0,0.0,2027-05-10,Yes,249.0
+S00538,C0062,TravelEase,Travel,Saver,2025-07-02,Monthly,Active,286.35,286.35,0,0.0,2027-08-23,Yes,286.35
+S00539,C0233,FitTrack+,Fitness,Annual,2026-01-10,Monthly,Active,343.85,431.33,2,25.4,2026-11-17,Yes,431.33
+S00540,C0113,OfficePilot,Productivity,Family,2025-05-27,Monthly,Cancelled,439.2,439.2,0,0.0,2027-08-24,Yes,439.2
+S00541,C0258,StreamFlix,Video Streaming,Premium,2024-02-27,Monthly,Cancelled,519.2,686.64,2,32.2,2027-08-15,Yes,686.64
+S00542,C0145,TuneCloud,Music,Family,2023-07-28,Monthly,Cancelled,119.0,131.2,2,10.3,2027-07-02,No,131.2
+S00543,C0318,OfficePilot,Productivity,Family,2023-03-30,Monthly,Active,631.35,681.86,1,8.0,2027-07-16,No,681.86
+S00544,C0127,StreamFlix,Video Streaming,Premium,2023-01-05,Monthly,Cancelled,519.2,691.06,3,33.1,2027-10-15,Yes,691.06
+S00545,C0103,GameSphere,Gaming,Ultimate,2023-09-25,Monthly,Active,399.2,431.14,1,8.0,2026-12-18,Yes,431.14
+S00546,C0239,TravelEase,Travel,Saver,2024-04-15,Monthly,Active,249.0,378.7,3,52.1,2027-04-16,Yes,378.7
+S00547,C0226,GameSphere,Gaming,Core,2026-01-21,Monthly,Active,573.85,758.92,2,32.3,2027-01-23,Yes,758.92
+S00548,C0242,SkillSpring,Education,Annual,2024-05-11,Monthly,Cancelled,799.0,799.0,0,0.0,2027-10-25,No,799.0
+S00549,C0182,DesignDeck,Productivity,Basic,2026-01-16,Monthly,Active,1033.85,1296.86,2,25.4,2027-08-19,Yes,1296.86
+S00550,C0119,StreamFlix,Video Streaming,Basic,2026-05-14,Monthly,Cancelled,746.35,835.91,1,12.0,2027-05-04,Yes,835.91
+S00551,C0312,CloudNest,Cloud Storage,1 TB,2025-07-26,Monthly,Active,228.85,256.31,1,12.0,2027-04-30,No,256.31
+S00552,C0129,GameSphere,Gaming,Core,2026-01-21,Monthly,Active,499.0,499.0,0,0.0,2027-07-01,No,499.0
+S00553,C0088,BingeBox,Video Streaming,Mobile,2024-04-02,Monthly,Cancelled,399.0,438.9,1,10.0,2027-07-08,Yes,438.9
+S00554,C0159,BingeBox,Video Streaming,Standard,2024-10-10,Monthly,Paused,399.0,399.0,0,0.0,2027-05-06,Yes,399.0
+S00555,C0289,OfficePilot,Productivity,Personal,2025-05-01,Monthly,Active,549.0,549.0,0,0.0,2027-09-11,Yes,549.0
+S00556,C0096,PodWave,Music,Free+,2025-04-18,Annual,Cancelled,99.0,88.36,1,5.0,2027-04-13,Yes,88.36
+S00557,C0248,GameSphere,Gaming,Core,2025-07-20,Monthly,Active,573.85,632.67,2,10.3,2026-11-04,No,632.67
+S00558,C0295,SkillSpring,Education,Annual,2024-09-02,Monthly,Active,799.0,799.0,0,0.0,2027-06-03,Yes,799.0
+S00559,C0347,PodWave,Music,Premium,2024-05-22,Monthly,Active,113.85,125.52,2,10.3,2026-12-12,Yes,125.52
+S00560,C0202,BingeBox,Video Streaming,Mobile,2023-04-16,Monthly,Active,319.2,351.12,1,10.0,2027-06-05,Yes,351.12
+S00561,C0072,TuneCloud,Music,Individual,2024-11-08,Monthly,Active,136.85,172.39,3,26.0,2027-04-24,Yes,172.39
+S00562,C0260,StreamFlix,Video Streaming,Premium,2023-06-11,Monthly,Cancelled,746.35,806.06,1,8.0,2027-05-03,Yes,806.06
+S00563,C0105,MealMate,Food & Delivery,Plus,2024-09-04,Monthly,Active,99.0,99.0,0,0.0,2027-08-27,No,99.0
+S00564,C0289,MealMate,Food & Delivery,Plus,2025-02-03,Annual,Active,99.0,92.56,1,10.0,2027-02-10,Yes,92.56
+S00565,C0194,TuneCloud,Music,Duo,2025-05-07,Annual,Paused,119.0,113.29,1,12.0,2027-08-14,Yes,113.29
+S00566,C0187,StreamFlix,Video Streaming,Standard,2023-07-10,Monthly,Active,649.0,649.0,0,0.0,2027-05-19,No,649.0
+S00567,C0226,StreamFlix,Video Streaming,Premium,2023-06-06,Monthly,Active,746.35,746.35,0,0.0,2027-02-16,Yes,746.35
+S00568,C0008,FitTrack+,Fitness,Monthly,2025-05-20,Monthly,Active,299.0,348.75,2,16.6,2027-07-06,No,348.75
+S00569,C0313,TuneCloud,Music,Individual,2023-08-18,Monthly,Active,95.2,104.72,1,10.0,2027-03-10,Yes,104.72
+S00570,C0178,StreamFlix,Video Streaming,Standard,2024-12-23,Monthly,Active,649.0,746.35,1,15.0,2027-05-14,Yes,746.35
+S00571,C0302,BingeBox,Video Streaming,Mobile,2026-09-08,Monthly,Active,399.0,399.0,0,0.0,2027-07-07,Yes,399.0
+S00572,C0122,GameSphere,Gaming,Ultimate,2024-02-11,Annual,Cancelled,499.0,424.15,0,0.0,2027-05-10,Yes,424.15
+S00573,C0238,PodWave,Music,Premium,2026-02-17,Annual,Active,79.2,77.42,1,15.0,2027-04-27,Yes,77.42
+S00574,C0219,PodWave,Music,Premium,2025-02-20,Monthly,Active,79.2,87.12,1,10.0,2027-10-08,Yes,87.12
+S00575,C0239,TravelEase,Travel,Plus,2026-09-01,Annual,Paused,249.0,237.05,1,12.0,2027-05-26,No,237.05
+S00576,C0178,StreamFlix,Video Streaming,Standard,2025-03-25,Monthly,Active,649.0,649.0,0,0.0,2026-11-18,No,649.0
+S00577,C0133,MealMate,Food & Delivery,Max,2024-06-13,Monthly,Active,113.85,150.57,2,32.3,2026-10-30,Yes,150.57
+S00578,C0347,NewsDaily,News,Digital,2024-12-04,Monthly,Cancelled,149.0,198.32,3,33.1,2027-10-19,No,198.32
+S00579,C0045,MealMate,Food & Delivery,Max,2025-12-16,Monthly,Active,79.2,79.2,0,0.0,2027-09-29,Yes,79.2
+S00580,C0091,StreamFlix,Video Streaming,Basic,2026-06-06,Monthly,Active,746.35,903.08,2,21.0,2027-09-25,Yes,903.08
+S00581,C0142,StreamFlix,Video Streaming,Standard,2025-10-24,Monthly,Active,746.35,1048.57,3,40.5,2027-05-07,Yes,1048.57
+S00582,C0112,SkillSpring,Education,Monthly,2025-09-07,Monthly,Active,799.0,838.95,1,5.0,2027-09-01,Yes,838.95
+S00583,C0328,CloudNest,Cloud Storage,100 GB,2023-11-21,Monthly,Active,228.85,287.07,2,25.4,2027-06-15,Yes,287.07
+S00584,C0291,MealMate,Food & Delivery,Plus,2024-02-26,Annual,Active,99.0,84.15,0,0.0,2027-02-09,Yes,84.15
+S00585,C0149,BingeBox,Video Streaming,Mobile,2023-05-20,Monthly,Active,458.85,513.91,1,12.0,2027-06-12,No,513.91
+S00586,C0024,StreamFlix,Video Streaming,Basic,2023-06-10,Monthly,Paused,649.0,649.0,0,0.0,2026-11-30,Yes,649.0
+S00587,C0298,DesignDeck,Productivity,Basic,2025-07-24,Annual,Active,719.2,611.32,0,0.0,2027-06-08,Yes,611.32
+S00588,C0151,SkillSpring,Education,Monthly,2023-02-01,Annual,Active,799.0,679.15,0,0.0,2027-05-16,No,679.15
+S00589,C0254,SecureSurf,Security,Basic,2023-11-21,Monthly,Active,205.85,205.85,0,0.0,2027-03-10,Yes,205.85
+S00590,C0168,SecureSurf,Security,Basic,2025-02-03,Annual,Active,179.0,184.1,2,21.0,2027-03-17,Yes,184.1
+S00591,C0081,PodWave,Music,Free+,2023-07-01,Monthly,Active,99.0,99.0,0,0.0,2026-11-20,Yes,99.0
+S00592,C0332,StreamFlix,Video Streaming,Standard,2023-05-22,Monthly,Active,649.0,700.92,1,8.0,2027-07-18,Yes,700.92
+S00593,C0096,BingeBox,Video Streaming,Family,2026-04-03,Monthly,Active,319.2,357.5,1,12.0,2027-01-04,Yes,357.5
+S00594,C0093,OfficePilot,Productivity,Family,2024-06-27,Monthly,Active,631.35,631.35,0,0.0,2027-09-27,Yes,631.35
+S00595,C0070,TuneCloud,Music,Duo,2026-02-28,Monthly,Active,119.0,119.0,0,0.0,2027-04-09,No,119.0
+S00596,C0054,CloudNest,Cloud Storage,Family,2026-06-14,Monthly,Active,199.0,214.92,1,8.0,2027-09-17,Yes,214.92
+S00597,C0340,OfficePilot,Productivity,Personal,2025-06-25,Monthly,Active,631.35,694.49,1,10.0,2027-03-19,No,694.49
+S00598,C0185,PodWave,Music,Premium,2026-08-23,Monthly,Active,99.0,103.95,1,5.0,2026-11-09,Yes,103.95
+S00599,C0240,DesignDeck,Productivity,Basic,2023-01-30,Annual,Active,899.0,764.15,0,0.0,2027-06-11,Yes,764.15
+S00600,C0308,LearnLoop,Education,Starter,2025-11-19,Monthly,Active,399.2,439.12,1,10.0,2027-08-10,No,439.12
+S00601,C0019,LearnLoop,Education,Pro,2024-02-29,Monthly,Active,499.0,499.0,0,0.0,2026-12-19,Yes,499.0
+S00602,C0324,MealMate,Food & Delivery,Plus,2024-12-13,Monthly,Active,79.2,92.38,2,16.6,2027-03-15,Yes,92.38
+S00603,C0233,OfficePilot,Productivity,Family,2024-05-30,Monthly,Active,439.2,483.12,1,10.0,2027-04-07,Yes,483.12
+S00604,C0199,StreamFlix,Video Streaming,Standard,2026-03-14,Annual,Active,649.0,551.65,0,0.0,2027-04-10,Yes,551.65
+S00605,C0338,TuneCloud,Music,Family,2024-08-23,Annual,Active,119.0,101.15,0,0.0,2027-03-29,Yes,101.15
+S00606,C0338,BingeBox,Video Streaming,Standard,2024-08-06,Annual,Active,319.2,299.13,2,10.3,2026-12-26,No,299.13
+S00607,C0124,FitTrack+,Fitness,Annual,2023-08-28,Annual,Active,343.85,292.27,0,0.0,2027-04-01,No,292.27
+S00608,C0346,StreamFlix,Video Streaming,Standard,2026-07-23,Monthly,Active,649.0,649.0,0,0.0,2027-09-14,Yes,649.0
+S00609,C0253,NewsDaily,News,Digital,2023-09-10,Monthly,Active,119.2,144.23,2,21.0,2026-11-09,Yes,144.23
+S00610,C0216,StreamFlix,Video Streaming,Standard,2023-04-06,Monthly,Active,519.2,651.28,2,25.4,2027-01-11,Yes,651.28
+S00611,C0137,TuneCloud,Music,Family,2025-11-02,Monthly,Active,119.0,119.0,0,0.0,2027-08-29,No,119.0
+S00612,C0095,TravelEase,Travel,Saver,2024-11-15,Monthly,Cancelled,249.0,378.7,3,52.1,2027-09-23,No,378.7
+S00613,C0111,OfficePilot,Productivity,Family,2025-11-12,Monthly,Active,549.0,834.96,3,52.1,2027-01-09,Yes,834.96
+S00614,C0119,StreamFlix,Video Streaming,Premium,2023-04-16,Monthly,Active,649.0,715.52,2,10.2,2027-03-03,No,715.52
+S00615,C0015,BingeBox,Video Streaming,Family,2023-07-10,Monthly,Active,399.0,418.95,1,5.0,2027-05-08,Yes,418.95
+S00616,C0345,FitTrack+,Fitness,Monthly,2025-10-05,Annual,Active,343.85,292.27,0,0.0,2027-06-02,Yes,292.27
+S00617,C0092,TuneCloud,Music,Duo,2024-09-08,Monthly,Active,119.0,149.91,3,26.0,2027-04-30,Yes,149.91
+S00618,C0093,PodWave,Music,Free+,2024-09-21,Annual,Cancelled,79.2,81.46,2,21.0,2027-09-10,Yes,81.46
+S00619,C0145,OfficePilot,Productivity,Personal,2026-08-16,Monthly,Active,631.35,763.93,2,21.0,2027-04-25,No,763.93
+S00620,C0036,FitTrack+,Fitness,Annual,2025-12-06,Monthly,Cancelled,299.0,322.92,1,8.0,2027-02-23,Yes,322.92
+S00621,C0199,OfficePilot,Productivity,Personal,2026-06-13,Monthly,Active,549.0,549.0,0,0.0,2027-09-09,Yes,549.0
+S00622,C0135,DesignDeck,Productivity,Pro,2024-09-18,Monthly,Active,1033.85,1033.85,0,0.0,2027-10-17,Yes,1033.85
+S00623,C0127,MealMate,Food & Delivery,Plus,2023-12-12,Monthly,Cancelled,99.0,108.9,1,10.0,2027-07-11,Yes,108.9
+S00624,C0215,MealMate,Food & Delivery,Plus,2024-12-12,Monthly,Active,99.0,99.0,0,0.0,2027-10-18,Yes,99.0
+S00625,C0345,BingeBox,Video Streaming,Mobile,2024-05-31,Monthly,Active,399.0,482.79,2,21.0,2027-08-12,No,482.79
+S00626,C0308,BingeBox,Video Streaming,Mobile,2023-05-27,Annual,Active,319.2,284.89,1,5.0,2027-01-06,Yes,284.89
+S00627,C0160,TuneCloud,Music,Duo,2024-07-31,Monthly,Cancelled,95.2,115.19,2,21.0,2027-04-03,Yes,115.19
+S00628,C0034,BingeBox,Video Streaming,Standard,2023-06-13,Monthly,Active,458.85,481.79,1,5.0,2027-02-28,No,481.79
+S00629,C0091,StreamFlix,Video Streaming,Basic,2024-01-24,Monthly,Active,519.2,545.16,1,5.0,2027-04-15,Yes,545.16
+S00630,C0111,TravelEase,Travel,Saver,2024-12-13,Annual,Active,249.0,222.23,1,5.0,2027-04-30,Yes,222.23
+S00631,C0262,TravelEase,Travel,Saver,2025-05-08,Monthly,Active,286.35,378.7,2,32.3,2027-01-17,Yes,378.7
+S00632,C0004,GameSphere,Gaming,Ultimate,2023-06-04,Monthly,Active,499.0,499.0,0,0.0,2027-04-24,Yes,499.0
+S00633,C0258,DesignDeck,Productivity,Basic,2026-01-12,Monthly,Active,899.0,1188.93,2,32.3,2027-01-17,Yes,1188.93
+S00634,C0015,MealMate,Food & Delivery,Max,2024-05-05,Monthly,Cancelled,79.2,99.35,2,25.4,2027-10-10,Yes,99.35
+S00635,C0268,CloudNest,Cloud Storage,Family,2025-02-27,Monthly,Active,159.2,159.2,0,0.0,2027-08-11,Yes,159.2
+S00636,C0244,LearnLoop,Education,Pro,2026-09-19,Monthly,Cancelled,573.85,632.67,2,10.3,2027-10-17,Yes,632.67
+S00637,C0161,SecureSurf,Security,Basic,2024-05-12,Annual,Active,179.0,164.32,1,8.0,2027-09-01,Yes,164.32
+S00638,C0230,LearnLoop,Education,Starter,2023-09-09,Monthly,Active,499.0,558.88,1,12.0,2027-09-25,No,558.88
+S00639,C0322,StreamFlix,Video Streaming,Premium,2026-05-15,Monthly,Active,746.35,746.35,0,0.0,2027-05-29,Yes,746.35
+S00640,C0274,GameSphere,Gaming,Core,2023-10-07,Monthly,Active,399.2,447.1,1,12.0,2027-07-21,Yes,447.1
+S00641,C0023,LearnLoop,Education,Pro,2024-05-03,Monthly,Cancelled,399.2,399.2,0,0.0,2027-02-28,Yes,399.2
+S00642,C0005,StreamFlix,Video Streaming,Standard,2024-02-03,Monthly,Active,649.0,817.55,3,26.0,2027-07-11,Yes,817.55
+S00643,C0163,CloudNest,Cloud Storage,100 GB,2023-02-17,Annual,Active,199.0,197.29,2,16.6,2027-09-17,Yes,197.29
+S00644,C0234,MealMate,Food & Delivery,Plus,2026-08-13,Annual,Active,79.2,70.69,1,5.0,2027-07-17,Yes,70.69
+S00645,C0030,StreamFlix,Video Streaming,Premium,2026-01-04,Annual,Active,519.2,485.45,1,10.0,2027-09-03,Yes,485.45
+S00646,C0046,PodWave,Music,Free+,2023-05-30,Monthly,Active,79.2,105.42,3,33.1,2027-04-04,Yes,105.42
+S00647,C0218,TravelEase,Travel,Plus,2024-02-07,Monthly,Active,249.0,286.35,1,15.0,2027-06-19,Yes,286.35
+S00648,C0070,GameSphere,Gaming,Core,2024-07-21,Monthly,Active,573.85,722.89,3,26.0,2027-08-22,Yes,722.89
+S00649,C0121,TuneCloud,Music,Duo,2025-02-12,Monthly,Active,95.2,144.79,3,52.1,2027-09-07,Yes,144.79
+S00650,C0143,NewsDaily,News,Digital,2026-09-13,Monthly,Active,171.35,171.35,0,0.0,2027-01-24,Yes,171.35
+S00651,C0193,StreamFlix,Video Streaming,Basic,2026-09-28,Annual,Active,649.0,551.65,0,0.0,2027-07-21,Yes,551.65
+S00652,C0191,StreamFlix,Video Streaming,Basic,2024-11-14,Annual,Active,649.0,551.65,0,0.0,2027-04-30,Yes,551.65
+S00653,C0106,MealMate,Food & Delivery,Plus,2026-07-11,Monthly,Active,79.2,79.2,0,0.0,2027-08-18,Yes,79.2
+S00654,C0217,TravelEase,Travel,Saver,2026-09-17,Monthly,Active,249.0,268.92,1,8.0,2027-01-08,Yes,268.92
+S00655,C0220,CloudNest,Cloud Storage,Family,2023-11-03,Monthly,Active,228.85,228.85,0,0.0,2026-12-10,Yes,228.85
+S00656,C0228,NewsDaily,News,Digital,2025-03-24,Monthly,Active,119.2,119.2,0,0.0,2027-06-13,Yes,119.2
+S00657,C0329,PodWave,Music,Premium,2025-10-13,Monthly,Active,99.0,139.09,3,40.5,2027-06-28,Yes,139.09
+S00658,C0047,SecureSurf,Security,Advanced,2025-01-12,Monthly,Cancelled,205.85,226.44,1,10.0,2027-02-25,No,226.44
+S00659,C0328,DesignDeck,Productivity,Basic,2025-12-17,Monthly,Cancelled,1033.85,1085.54,1,5.0,2027-01-05,Yes,1085.54
+S00660,C0224,FitTrack+,Fitness,Annual,2025-05-28,Monthly,Cancelled,299.0,299.0,0,0.0,2027-04-04,Yes,299.0
+S00661,C0206,MealMate,Food & Delivery,Max,2024-11-06,Annual,Active,99.0,101.82,2,21.0,2027-01-16,No,101.82
+S00662,C0124,LearnLoop,Education,Pro,2025-03-17,Monthly,Paused,499.0,499.0,0,0.0,2027-09-17,Yes,499.0
+S00663,C0255,StreamFlix,Video Streaming,Standard,2024-11-10,Annual,Active,649.0,634.4,1,15.0,2027-01-20,Yes,634.4
+S00664,C0120,LearnLoop,Education,Starter,2024-08-21,Monthly,Active,399.2,439.12,1,10.0,2027-06-05,No,439.12
+S00665,C0310,OfficePilot,Productivity,Personal,2023-02-22,Monthly,Cancelled,549.0,688.67,2,25.4,2027-07-24,Yes,688.67
+S00666,C0295,FitTrack+,Fitness,Monthly,2024-06-20,Monthly,Active,299.0,299.0,0,0.0,2027-03-30,Yes,299.0
+S00667,C0051,CloudNest,Cloud Storage,Family,2025-06-29,Monthly,Paused,228.85,256.31,1,12.0,2027-09-03,No,256.31
+S00668,C0050,CloudNest,Cloud Storage,100 GB,2023-10-27,Monthly,Active,228.85,228.85,0,0.0,2027-06-02,Yes,228.85
+S00669,C0336,StreamFlix,Video Streaming,Basic,2024-05-17,Monthly,Active,649.0,726.88,1,12.0,2027-04-11,Yes,726.88
+S00670,C0010,TravelEase,Travel,Plus,2024-10-19,Monthly,Cancelled,249.0,249.0,0,0.0,2027-08-14,Yes,249.0
+S00671,C0339,CloudNest,Cloud Storage,100 GB,2025-03-24,Annual,Active,228.85,217.86,1,12.0,2027-02-19,Yes,217.86
+S00672,C0171,FitTrack+,Fitness,Annual,2023-02-23,Monthly,Cancelled,299.0,343.85,1,15.0,2027-04-14,Yes,343.85
+S00673,C0291,SkillSpring,Education,Monthly,2023-10-04,Monthly,Active,799.0,931.95,2,16.6,2027-03-14,Yes,931.95
+S00674,C0203,SkillSpring,Education,Annual,2023-05-11,Monthly,Cancelled,799.0,1002.27,2,25.4,2027-07-30,Yes,1002.27
+S00675,C0027,CloudNest,Cloud Storage,Family,2023-07-16,Monthly,Active,199.0,218.9,1,10.0,2027-08-05,Yes,218.9
+S00676,C0171,OfficePilot,Productivity,Personal,2024-02-09,Monthly,Paused,549.0,576.45,1,5.0,2027-09-15,No,576.45
+S00677,C0239,GameSphere,Gaming,Core,2025-11-06,Monthly,Active,399.2,399.2,0,0.0,2027-02-27,Yes,399.2
+S00678,C0270,BingeBox,Video Streaming,Standard,2023-06-19,Monthly,Cancelled,319.2,402.1,3,26.0,2027-06-24,Yes,402.1
+S00679,C0269,CloudNest,Cloud Storage,1 TB,2025-10-03,Monthly,Active,159.2,199.7,2,25.4,2027-06-10,Yes,199.7
+S00680,C0043,SecureSurf,Security,Basic,2024-01-05,Annual,Active,179.0,152.15,0,0.0,2026-11-16,No,152.15
+S00681,C0255,SecureSurf,Security,Advanced,2023-05-11,Monthly,Active,179.0,179.0,0,0.0,2027-06-03,Yes,179.0
+S00682,C0204,SecureSurf,Security,Basic,2024-04-19,Monthly,Active,205.85,226.44,1,10.0,2027-07-12,Yes,226.44
+S00683,C0279,PodWave,Music,Free+,2025-03-30,Monthly,Cancelled,79.2,79.2,0,0.0,2027-01-14,Yes,79.2
+S00684,C0163,PodWave,Music,Premium,2024-01-24,Monthly,Active,99.0,99.0,0,0.0,2027-06-20,Yes,99.0
+S00685,C0112,PodWave,Music,Free+,2023-07-14,Monthly,Active,79.2,91.08,1,15.0,2026-11-05,Yes,91.08
+S00686,C0339,OfficePilot,Productivity,Personal,2024-10-21,Monthly,Cancelled,549.0,688.67,2,25.4,2027-10-04,Yes,688.67
+S00687,C0279,CloudNest,Cloud Storage,1 TB,2024-01-15,Monthly,Active,199.0,199.0,0,0.0,2026-11-19,Yes,199.0
+S00688,C0292,StreamFlix,Video Streaming,Premium,2026-03-29,Monthly,Active,649.0,863.82,3,33.1,2027-03-07,Yes,863.82
+S00689,C0026,NewsDaily,News,Digital,2024-01-01,Monthly,Active,149.0,197.05,2,32.2,2027-10-22,Yes,197.05
+S00690,C0201,DesignDeck,Productivity,Pro,2023-04-08,Monthly,Active,899.0,1188.93,2,32.3,2027-03-03,Yes,1188.93
+S00691,C0213,GameSphere,Gaming,Ultimate,2025-03-13,Monthly,Active,499.0,548.9,1,10.0,2027-02-25,No,548.9
+S00692,C0038,SecureSurf,Security,Basic,2025-08-17,Monthly,Active,143.2,189.38,2,32.2,2027-05-24,Yes,189.38
+S00693,C0007,CloudNest,Cloud Storage,Family,2025-06-03,Monthly,Active,159.2,159.2,0,0.0,2027-07-12,Yes,159.2
+S00694,C0337,GameSphere,Gaming,Core,2026-03-10,Monthly,Cancelled,499.0,659.93,2,32.3,2027-07-15,No,659.93
+S00695,C0134,OfficePilot,Productivity,Personal,2024-08-09,Monthly,Active,549.0,592.92,1,8.0,2027-02-09,No,592.92
+S00696,C0102,BingeBox,Video Streaming,Standard,2025-12-04,Monthly,Active,399.0,446.88,1,12.0,2026-12-01,Yes,446.88
+S00697,C0184,CloudNest,Cloud Storage,1 TB,2025-10-05,Monthly,Cancelled,228.85,256.31,1,12.0,2027-01-25,Yes,256.31
+S00698,C0247,BingeBox,Video Streaming,Family,2025-11-02,Monthly,Cancelled,458.85,575.58,2,25.4,2027-10-15,Yes,575.58
+S00699,C0349,CloudNest,Cloud Storage,100 GB,2023-09-20,Monthly,Active,199.0,199.0,0,0.0,2026-10-28,Yes,199.0
+S00700,C0268,SkillSpring,Education,Annual,2025-11-25,Annual,Active,918.85,1032.9,2,32.3,2027-07-22,Yes,1032.9
+S00701,C0140,TravelEase,Travel,Plus,2024-12-06,Monthly,Active,249.0,261.45,1,5.0,2027-09-16,Yes,261.45
+S00702,C0089,SkillSpring,Education,Monthly,2025-01-06,Monthly,Active,639.2,850.78,3,33.1,2026-10-29,No,850.78
+S00703,C0179,StreamFlix,Video Streaming,Standard,2024-12-17,Monthly,Cancelled,519.2,571.12,1,10.0,2027-10-22,Yes,571.12
+S00704,C0209,SkillSpring,Education,Monthly,2024-01-07,Monthly,Cancelled,799.0,799.0,0,0.0,2027-06-07,Yes,799.0
+S00705,C0094,StreamFlix,Video Streaming,Basic,2024-12-29,Annual,Active,519.2,463.39,1,5.0,2026-12-03,No,463.39
+S00706,C0040,BingeBox,Video Streaming,Standard,2024-07-08,Monthly,Cancelled,319.2,319.2,0,0.0,2027-10-13,Yes,319.2
+S00707,C0146,TuneCloud,Music,Duo,2026-09-03,Monthly,Active,136.85,136.85,0,0.0,2027-03-10,Yes,136.85
+S00708,C0111,BingeBox,Video Streaming,Family,2026-07-17,Monthly,Active,399.0,438.9,1,10.0,2026-12-28,Yes,438.9
+S00709,C0135,NewsDaily,News,Digital,2026-04-23,Monthly,Active,149.0,187.7,3,26.0,2027-03-31,Yes,187.7
+S00710,C0215,SkillSpring,Education,Monthly,2023-12-08,Monthly,Cancelled,918.85,1056.68,1,15.0,2027-01-18,No,1056.68
+S00711,C0266,NewsDaily,News,Premium,2024-06-22,Monthly,Active,171.35,171.35,0,0.0,2027-06-14,Yes,171.35
+S00712,C0041,PodWave,Music,Free+,2024-06-13,Monthly,Paused,99.0,108.9,1,10.0,2027-08-28,Yes,108.9
+S00713,C0217,PodWave,Music,Free+,2023-04-18,Monthly,Active,79.2,79.2,0,0.0,2027-02-27,Yes,79.2
+S00714,C0280,StreamFlix,Video Streaming,Basic,2026-07-30,Annual,Active,649.0,579.23,1,5.0,2027-02-27,Yes,579.23
+S00715,C0247,SkillSpring,Education,Annual,2025-11-29,Monthly,Active,918.85,1111.81,2,21.0,2027-03-15,Yes,1111.81
+S00716,C0268,StreamFlix,Video Streaming,Standard,2024-02-04,Monthly,Cancelled,746.35,870.54,2,16.6,2027-02-10,Yes,870.54
+S00717,C0296,TuneCloud,Music,Family,2026-08-27,Monthly,Active,119.0,136.85,1,15.0,2026-12-13,Yes,136.85
+S00718,C0199,TuneCloud,Music,Individual,2024-01-05,Monthly,Active,119.0,119.0,0,0.0,2027-03-30,Yes,119.0
+S00719,C0278,DesignDeck,Productivity,Pro,2023-07-22,Monthly,Active,899.0,1048.59,2,16.6,2027-07-19,Yes,1048.59
+S00720,C0011,CloudNest,Cloud Storage,Family,2026-05-30,Monthly,Cancelled,228.85,266.93,2,16.6,2027-09-04,Yes,266.93
+S00721,C0348,LearnLoop,Education,Pro,2023-08-25,Monthly,Active,499.0,550.15,2,10.3,2027-10-02,Yes,550.15
+S00722,C0172,StreamFlix,Video Streaming,Standard,2023-09-01,Monthly,Active,649.0,681.45,1,5.0,2027-07-22,Yes,681.45
+S00723,C0127,SecureSurf,Security,Basic,2026-09-04,Monthly,Active,205.85,205.85,0,0.0,2027-01-29,Yes,205.85
+S00724,C0080,FitTrack+,Fitness,Monthly,2026-09-24,Monthly,Active,299.0,299.0,0,0.0,2026-12-25,Yes,299.0
+S00725,C0243,LearnLoop,Education,Pro,2024-06-17,Monthly,Cancelled,573.85,806.22,3,40.5,2026-12-13,Yes,806.22
+S00726,C0032,PodWave,Music,Free+,2026-04-18,Monthly,Active,79.2,120.45,3,52.1,2027-06-05,Yes,120.45
+S00727,C0314,CloudNest,Cloud Storage,100 GB,2025-02-26,Monthly,Active,199.0,263.18,2,32.3,2027-06-24,Yes,263.18
+S00728,C0319,DesignDeck,Productivity,Pro,2026-06-22,Monthly,Active,899.0,899.0,0,0.0,2027-01-13,Yes,899.0
+S00729,C0179,StreamFlix,Video Streaming,Standard,2025-10-01,Monthly,Cancelled,519.2,519.2,0,0.0,2027-01-05,Yes,519.2
+S00730,C0270,FitTrack+,Fitness,Monthly,2025-11-15,Monthly,Active,299.0,395.43,2,32.3,2027-03-09,No,395.43
+S00731,C0334,TuneCloud,Music,Duo,2024-09-25,Annual,Cancelled,119.0,111.52,2,10.3,2027-04-14,Yes,111.52
+S00732,C0297,CloudNest,Cloud Storage,Family,2025-04-23,Monthly,Active,199.0,214.92,1,8.0,2027-09-03,Yes,214.92
+S00733,C0111,TravelEase,Travel,Saver,2026-05-13,Monthly,Paused,249.0,249.0,0,0.0,2027-09-14,Yes,249.0
+S00734,C0265,StreamFlix,Video Streaming,Standard,2026-08-20,Annual,Active,649.0,595.78,1,8.0,2027-09-25,No,595.78
+S00735,C0121,TuneCloud,Music,Individual,2026-03-03,Monthly,Active,119.0,131.2,2,10.3,2027-03-19,Yes,131.2
+S00736,C0057,StreamFlix,Video Streaming,Premium,2025-09-17,Monthly,Cancelled,519.2,519.2,0,0.0,2027-10-02,Yes,519.2
+S00737,C0116,BingeBox,Video Streaming,Standard,2023-09-13,Monthly,Active,399.0,399.0,0,0.0,2027-08-25,No,399.0
+S00738,C0225,StreamFlix,Video Streaming,Premium,2025-04-27,Annual,Active,746.35,685.15,1,8.0,2027-04-11,Yes,685.15
+S00739,C0120,LearnLoop,Education,Pro,2023-02-11,Monthly,Active,399.2,500.76,2,25.4,2026-12-12,Yes,500.76
+S00740,C0044,CloudNest,Cloud Storage,1 TB,2024-03-16,Monthly,Cancelled,199.0,199.0,0,0.0,2027-09-09,Yes,199.0
+S00741,C0072,StreamFlix,Video Streaming,Basic,2024-10-24,Annual,Active,649.0,838.99,3,52.1,2027-07-20,Yes,838.99
+S00742,C0050,FitTrack+,Fitness,Monthly,2025-03-13,Monthly,Active,239.2,289.43,2,21.0,2027-03-07,No,289.43
+S00743,C0070,LearnLoop,Education,Pro,2023-02-11,Annual,Active,399.2,374.1,2,10.3,2027-05-14,Yes,374.1
+S00744,C0126,SkillSpring,Education,Monthly,2023-01-25,Monthly,Active,799.0,878.9,1,10.0,2027-01-31,Yes,878.9
+S00745,C0201,CloudNest,Cloud Storage,Family,2023-06-09,Monthly,Active,199.0,228.85,1,15.0,2027-07-12,Yes,228.85
+S00746,C0201,GameSphere,Gaming,Core,2025-09-03,Monthly,Active,573.85,694.36,2,21.0,2027-01-02,No,694.36
+S00747,C0154,TravelEase,Travel,Plus,2024-11-11,Monthly,Paused,249.0,329.3,2,32.2,2027-05-10,Yes,329.3
+S00748,C0022,SecureSurf,Security,Basic,2024-08-07,Annual,Active,179.0,152.15,0,0.0,2027-03-06,Yes,152.15
+S00749,C0185,GameSphere,Gaming,Core,2024-07-26,Monthly,Active,499.0,499.0,0,0.0,2026-11-08,Yes,499.0
+S00750,C0047,DesignDeck,Productivity,Basic,2026-04-30,Annual,Active,1033.85,1063.32,2,21.0,2027-03-18,Yes,1063.32
+S00751,C0328,TuneCloud,Music,Duo,2023-08-18,Annual,Active,119.0,109.24,1,8.0,2027-05-12,Yes,109.24
+S00752,C0318,TuneCloud,Music,Duo,2026-01-14,Monthly,Active,136.85,171.66,2,25.4,2026-11-30,No,171.66
+S00753,C0156,MealMate,Food & Delivery,Plus,2025-08-26,Monthly,Active,99.0,99.0,0,0.0,2026-12-04,Yes,99.0
+S00754,C0054,BingeBox,Video Streaming,Family,2025-08-04,Annual,Cancelled,458.85,390.02,0,0.0,2027-06-02,Yes,390.02
+S00755,C0257,BingeBox,Video Streaming,Family,2026-04-19,Monthly,Active,319.2,367.08,1,15.0,2026-11-28,No,367.08
+S00756,C0136,NewsDaily,News,Premium,2026-03-14,Monthly,Active,149.0,149.0,0,0.0,2026-11-13,Yes,149.0
+S00757,C0209,LearnLoop,Education,Starter,2025-01-04,Annual,Active,399.2,339.32,0,0.0,2027-03-28,Yes,339.32
+S00758,C0177,NewsDaily,News,Premium,2026-03-10,Monthly,Active,119.2,131.12,1,10.0,2027-04-20,No,131.12
+S00759,C0201,StreamFlix,Video Streaming,Premium,2025-07-22,Monthly,Active,519.2,519.2,0,0.0,2027-08-08,No,519.2
+S00760,C0128,LearnLoop,Education,Starter,2024-05-31,Monthly,Active,499.0,523.95,1,5.0,2027-04-20,No,523.95
+S00761,C0185,TravelEase,Travel,Plus,2023-02-01,Monthly,Paused,249.0,290.43,2,16.6,2027-02-11,Yes,290.43
+S00762,C0165,StreamFlix,Video Streaming,Basic,2023-09-14,Annual,Active,746.35,799.16,3,26.0,2027-08-01,Yes,799.16
+S00763,C0325,SkillSpring,Education,Monthly,2025-01-12,Monthly,Active,799.0,799.0,0,0.0,2027-04-28,Yes,799.0
+S00764,C0345,DesignDeck,Productivity,Pro,2024-05-10,Monthly,Active,1033.85,1296.86,2,25.4,2027-06-10,Yes,1296.86
+S00765,C0108,OfficePilot,Productivity,Personal,2024-10-16,Monthly,Active,549.0,576.45,1,5.0,2027-09-09,Yes,576.45
+S00766,C0310,PodWave,Music,Free+,2023-02-18,Monthly,Active,99.0,99.0,0,0.0,2027-01-04,Yes,99.0
+S00767,C0251,BingeBox,Video Streaming,Standard,2025-08-15,Monthly,Active,319.2,319.2,0,0.0,2027-03-18,No,319.2
+S00768,C0215,NewsDaily,News,Premium,2023-05-27,Monthly,Active,119.2,119.2,0,0.0,2027-10-07,No,119.2
+S00769,C0168,TuneCloud,Music,Duo,2024-10-07,Annual,Active,119.0,101.15,0,0.0,2026-12-07,Yes,101.15
+S00770,C0234,TuneCloud,Music,Individual,2025-05-20,Annual,Active,119.0,111.52,2,10.3,2027-02-13,No,111.52
+S00771,C0309,TuneCloud,Music,Family,2023-06-19,Monthly,Cancelled,95.2,99.96,1,5.0,2027-02-11,Yes,99.96
+S00772,C0047,SecureSurf,Security,Advanced,2023-06-06,Monthly,Active,179.0,251.48,3,40.5,2026-11-23,No,251.48
+S00773,C0188,StreamFlix,Video Streaming,Premium,2025-09-05,Monthly,Cancelled,519.2,545.16,1,5.0,2027-01-29,No,545.16
+S00774,C0144,FitTrack+,Fitness,Annual,2023-02-05,Monthly,Active,239.2,336.06,3,40.5,2027-06-09,No,336.06
+S00775,C0323,NewsDaily,News,Premium,2023-10-27,Monthly,Active,149.0,186.91,2,25.4,2027-02-13,Yes,186.91
+S00776,C0013,SecureSurf,Security,Advanced,2023-02-18,Monthly,Cancelled,179.0,196.9,1,10.0,2027-09-19,Yes,196.9
+S00777,C0139,TravelEase,Travel,Saver,2024-08-08,Monthly,Active,286.35,315.7,2,10.2,2027-06-27,No,315.7
+S00778,C0120,OfficePilot,Productivity,Personal,2023-09-07,Monthly,Active,549.0,664.29,2,21.0,2027-02-20,Yes,664.29
+S00779,C0346,StreamFlix,Video Streaming,Standard,2023-08-18,Monthly,Paused,746.35,987.05,2,32.3,2026-11-13,Yes,987.05
+S00780,C0329,CloudNest,Cloud Storage,Family,2024-05-09,Monthly,Cancelled,159.2,159.2,0,0.0,2027-04-26,Yes,159.2
+S00781,C0032,TravelEase,Travel,Saver,2023-03-15,Monthly,Active,249.0,312.35,2,25.4,2027-07-07,Yes,312.35
+S00782,C0343,DesignDeck,Productivity,Basic,2025-08-05,Monthly,Active,1033.85,1033.85,0,0.0,2027-05-07,Yes,1033.85
+S00783,C0071,GameSphere,Gaming,Ultimate,2023-08-21,Monthly,Cancelled,399.2,447.1,1,12.0,2027-03-30,No,447.1
+S00784,C0167,LearnLoop,Education,Starter,2025-12-30,Annual,Active,573.85,536.55,1,10.0,2027-06-14,Yes,536.55
+S00785,C0280,FitTrack+,Fitness,Annual,2024-04-22,Annual,Cancelled,299.0,274.48,1,8.0,2027-01-31,No,274.48
+S00786,C0134,OfficePilot,Productivity,Family,2025-02-10,Monthly,Paused,549.0,688.67,2,25.4,2026-11-04,Yes,688.67
+S00787,C0233,PodWave,Music,Free+,2023-03-03,Monthly,Active,79.2,87.12,1,10.0,2027-03-25,Yes,87.12
+S00788,C0109,NewsDaily,News,Digital,2023-10-19,Monthly,Active,119.2,137.08,1,15.0,2026-12-24,Yes,137.08
+S00789,C0012,SkillSpring,Education,Monthly,2023-09-24,Monthly,Active,639.2,703.12,1,10.0,2027-03-12,Yes,703.12
+S00790,C0255,TuneCloud,Music,Duo,2023-10-17,Monthly,Paused,119.0,119.0,0,0.0,2027-05-12,Yes,119.0
+S00791,C0149,MealMate,Food & Delivery,Plus,2023-12-18,Monthly,Active,79.2,88.7,1,12.0,2027-09-04,Yes,88.7
+S00792,C0324,BingeBox,Video Streaming,Standard,2025-12-07,Annual,Active,399.0,356.11,1,5.0,2027-02-26,Yes,356.11
+S00793,C0194,LearnLoop,Education,Pro,2023-12-15,Monthly,Active,399.2,439.12,1,10.0,2027-04-30,No,439.12
+S00794,C0078,CloudNest,Cloud Storage,Family,2023-01-06,Annual,Paused,199.0,177.61,1,5.0,2027-02-09,Yes,177.61
+S00795,C0069,MealMate,Food & Delivery,Max,2026-06-16,Monthly,Active,99.0,119.79,2,21.0,2026-12-09,Yes,119.79
+S00796,C0294,SecureSurf,Security,Basic,2025-10-21,Monthly,Active,179.0,179.0,0,0.0,2027-06-15,Yes,179.0
+S00797,C0092,OfficePilot,Productivity,Family,2024-08-26,Monthly,Cancelled,439.2,439.2,0,0.0,2026-11-28,Yes,439.2
+S00798,C0158,MealMate,Food & Delivery,Plus,2025-06-27,Monthly,Active,79.2,87.32,2,10.3,2027-08-01,Yes,87.32
+S00799,C0090,SecureSurf,Security,Basic,2024-09-14,Monthly,Active,179.0,224.54,2,25.4,2027-05-12,Yes,224.54
+S00800,C0300,FitTrack+,Fitness,Monthly,2026-03-24,Monthly,Cancelled,299.0,329.65,2,10.3,2027-01-23,Yes,329.65
+S00801,C0339,NewsDaily,News,Digital,2026-04-21,Monthly,Active,149.0,156.45,1,5.0,2027-01-16,Yes,156.45
+S00802,C0103,StreamFlix,Video Streaming,Premium,2025-12-18,Monthly,Active,519.2,581.5,1,12.0,2027-07-10,Yes,581.5
+S00803,C0004,OfficePilot,Productivity,Family,2024-05-14,Monthly,Active,631.35,707.11,1,12.0,2027-06-20,Yes,707.11
+S00804,C0200,BingeBox,Video Streaming,Family,2026-06-15,Annual,Active,458.85,390.02,0,0.0,2027-08-16,Yes,390.02
+S00805,C0127,OfficePilot,Productivity,Personal,2024-04-01,Monthly,Active,549.0,549.0,0,0.0,2027-01-30,Yes,549.0
+S00806,C0324,TuneCloud,Music,Family,2025-09-06,Monthly,Active,95.2,106.62,1,12.0,2026-12-05,Yes,106.62
+S00807,C0159,DesignDeck,Productivity,Basic,2023-12-18,Monthly,Active,899.0,991.15,2,10.3,2027-05-27,No,991.15
+S00808,C0111,TuneCloud,Music,Individual,2025-10-11,Monthly,Active,136.85,171.66,2,25.4,2027-06-07,Yes,171.66
+S00809,C0032,LearnLoop,Education,Pro,2024-02-29,Monthly,Active,399.2,399.2,0,0.0,2027-05-29,Yes,399.2
+S00810,C0350,StreamFlix,Video Streaming,Basic,2024-09-23,Annual,Paused,649.0,551.65,0,0.0,2027-06-20,No,551.65
+S00811,C0045,StreamFlix,Video Streaming,Basic,2023-05-21,Monthly,Active,649.0,715.52,2,10.2,2026-11-17,Yes,715.52
+S00812,C0094,OfficePilot,Productivity,Family,2023-04-18,Monthly,Active,549.0,664.29,2,21.0,2026-12-03,Yes,664.29
+S00813,C0163,StreamFlix,Video Streaming,Standard,2025-11-15,Annual,Active,746.35,634.4,0,0.0,2027-03-07,Yes,634.4
+S00814,C0176,BingeBox,Video Streaming,Family,2024-06-02,Annual,Active,399.0,373.92,2,10.3,2027-04-30,Yes,373.92
+S00815,C0244,MealMate,Food & Delivery,Plus,2026-06-14,Annual,Active,113.85,135.96,3,40.5,2027-09-14,Yes,135.96
+S00816,C0201,FitTrack+,Fitness,Annual,2026-03-15,Monthly,Active,343.85,361.04,1,5.0,2027-08-31,Yes,361.04
+S00817,C0077,OfficePilot,Productivity,Personal,2025-12-23,Monthly,Active,549.0,614.88,1,12.0,2026-11-21,Yes,614.88
+S00818,C0049,TuneCloud,Music,Individual,2023-03-01,Monthly,Active,95.2,109.48,1,15.0,2026-12-27,Yes,109.48
+S00819,C0178,TuneCloud,Music,Duo,2025-10-06,Monthly,Cancelled,136.85,157.38,1,15.0,2027-02-08,Yes,157.38
+S00820,C0100,StreamFlix,Video Streaming,Premium,2025-04-03,Monthly,Active,746.35,806.06,1,8.0,2027-03-07,No,806.06
+S00821,C0248,TuneCloud,Music,Individual,2024-01-21,Monthly,Paused,119.0,143.99,2,21.0,2026-12-24,No,143.99
+S00822,C0285,StreamFlix,Video Streaming,Basic,2024-06-10,Monthly,Active,649.0,649.0,0,0.0,2027-05-06,No,649.0
+S00823,C0286,SecureSurf,Security,Advanced,2024-07-23,Annual,Cancelled,205.85,195.97,1,12.0,2027-03-21,No,195.97
+S00824,C0212,BingeBox,Video Streaming,Family,2026-01-21,Monthly,Cancelled,458.85,697.85,3,52.1,2027-06-27,No,697.85
+S00825,C0094,MealMate,Food & Delivery,Plus,2024-12-18,Monthly,Active,79.2,79.2,0,0.0,2026-12-15,No,79.2
+S00826,C0349,TravelEase,Travel,Plus,2026-07-25,Monthly,Active,249.0,249.0,0,0.0,2027-08-06,No,249.0
+S00827,C0142,CloudNest,Cloud Storage,Family,2024-02-29,Monthly,Active,228.85,252.31,2,10.3,2027-07-01,Yes,252.31
+S00828,C0180,DesignDeck,Productivity,Pro,2024-02-11,Annual,Active,899.0,855.85,1,12.0,2027-01-06,Yes,855.85
+S00829,C0154,LearnLoop,Education,Starter,2025-09-11,Monthly,Active,499.0,582.03,2,16.6,2027-10-13,Yes,582.03
+S00830,C0051,PodWave,Music,Premium,2024-09-16,Monthly,Active,79.2,99.35,2,25.4,2027-04-01,No,99.35
+S00831,C0199,FitTrack+,Fitness,Monthly,2025-03-25,Monthly,Active,343.85,378.24,1,10.0,2027-10-01,No,378.24
+S00832,C0104,OfficePilot,Productivity,Family,2026-05-19,Annual,Active,549.0,617.14,2,32.2,2027-09-23,Yes,617.14
+S00833,C0012,TuneCloud,Music,Duo,2026-05-04,Monthly,Active,119.0,131.2,2,10.3,2027-06-19,Yes,131.2
+S00834,C0155,BingeBox,Video Streaming,Family,2023-02-19,Monthly,Cancelled,319.2,367.08,1,15.0,2026-12-11,Yes,367.08
+S00835,C0341,LearnLoop,Education,Starter,2025-12-29,Annual,Active,573.85,546.3,1,12.0,2026-10-30,No,546.3
+S00836,C0212,CloudNest,Cloud Storage,100 GB,2024-03-01,Annual,Paused,159.2,151.56,1,12.0,2026-12-11,Yes,151.56
+S00837,C0202,StreamFlix,Video Streaming,Standard,2023-07-16,Monthly,Cancelled,649.0,649.0,0,0.0,2027-01-31,No,649.0
+S00838,C0156,SkillSpring,Education,Monthly,2024-04-23,Monthly,Active,799.0,1122.54,3,40.5,2027-01-07,Yes,1122.54
+S00839,C0080,StreamFlix,Video Streaming,Premium,2025-11-09,Monthly,Active,649.0,715.52,2,10.2,2027-06-03,Yes,715.52
+S00840,C0318,DesignDeck,Productivity,Pro,2026-06-26,Monthly,Active,719.2,905.98,3,26.0,2027-05-27,Yes,905.98
+S00841,C0130,CloudNest,Cloud Storage,1 TB,2026-06-26,Monthly,Active,199.0,199.0,0,0.0,2027-10-06,Yes,199.0
+S00842,C0075,LearnLoop,Education,Pro,2026-06-24,Monthly,Paused,499.0,550.15,2,10.3,2027-08-15,Yes,550.15
+S00843,C0107,StreamFlix,Video Streaming,Standard,2024-08-21,Monthly,Active,746.35,746.35,0,0.0,2027-02-07,Yes,746.35
+S00844,C0265,CloudNest,Cloud Storage,1 TB,2026-06-17,Monthly,Active,199.0,199.0,0,0.0,2027-08-24,Yes,199.0
+S00845,C0241,MealMate,Food & Delivery,Max,2023-11-05,Monthly,Active,99.0,124.71,3,26.0,2027-09-10,Yes,124.71
+S00846,C0239,CloudNest,Cloud Storage,1 TB,2023-09-27,Monthly,Active,159.2,159.2,0,0.0,2027-03-15,No,159.2
+S00847,C0315,FitTrack+,Fitness,Monthly,2026-02-17,Monthly,Active,343.85,371.36,1,8.0,2027-05-31,No,371.36
+S00848,C0240,CloudNest,Cloud Storage,1 TB,2025-10-21,Monthly,Active,199.0,228.85,1,15.0,2027-01-27,Yes,228.85
+S00849,C0188,TravelEase,Travel,Saver,2026-08-21,Monthly,Paused,249.0,273.9,1,10.0,2027-06-11,No,273.9
+S00850,C0017,TravelEase,Travel,Saver,2026-03-01,Monthly,Active,286.35,320.71,1,12.0,2027-06-12,Yes,320.71
+S00851,C0115,SecureSurf,Security,Basic,2026-03-06,Monthly,Active,179.0,205.85,1,15.0,2027-02-13,Yes,205.85
+S00852,C0296,SecureSurf,Security,Advanced,2025-08-28,Monthly,Active,179.0,251.48,3,40.5,2027-06-27,Yes,251.48
+S00853,C0256,CloudNest,Cloud Storage,Family,2023-06-19,Monthly,Paused,199.0,263.18,2,32.3,2027-02-17,No,263.18
+S00854,C0072,BingeBox,Video Streaming,Mobile,2026-01-08,Monthly,Active,399.0,399.0,0,0.0,2027-10-08,Yes,399.0
+S00855,C0215,CloudNest,Cloud Storage,Family,2026-06-07,Monthly,Active,228.85,228.85,0,0.0,2027-09-29,Yes,228.85
+S00856,C0312,SecureSurf,Security,Basic,2023-08-31,Monthly,Active,205.85,216.14,1,5.0,2027-10-06,Yes,216.14
+S00857,C0175,StreamFlix,Video Streaming,Standard,2024-12-11,Monthly,Paused,649.0,649.0,0,0.0,2027-07-20,Yes,649.0
+S00858,C0188,TuneCloud,Music,Family,2025-06-29,Annual,Active,136.85,127.96,1,10.0,2027-03-09,No,127.96
+S00859,C0325,SecureSurf,Security,Advanced,2025-04-14,Monthly,Active,205.85,205.85,0,0.0,2027-07-20,Yes,205.85
+S00860,C0113,DesignDeck,Productivity,Pro,2026-05-11,Annual,Active,899.0,878.77,1,15.0,2027-03-30,Yes,878.77
+S00861,C0183,CloudNest,Cloud Storage,1 TB,2024-08-21,Monthly,Active,199.0,218.9,1,10.0,2026-12-04,No,218.9
+S00862,C0024,TuneCloud,Music,Duo,2026-09-05,Monthly,Active,119.0,137.76,3,15.8,2027-04-12,Yes,137.76
+S00863,C0303,TuneCloud,Music,Family,2026-07-08,Monthly,Active,95.2,95.2,0,0.0,2027-07-11,Yes,95.2
+S00864,C0267,StreamFlix,Video Streaming,Premium,2024-09-13,Annual,Cancelled,649.0,617.85,1,12.0,2027-03-11,Yes,617.85
+S00865,C0114,TuneCloud,Music,Individual,2026-09-13,Monthly,Cancelled,95.2,102.82,1,8.0,2027-09-27,Yes,102.82
+S00866,C0340,SkillSpring,Education,Monthly,2026-06-29,Monthly,Active,639.2,850.78,3,33.1,2027-09-08,Yes,850.78
+S00867,C0230,LearnLoop,Education,Pro,2024-02-14,Monthly,Active,399.2,459.08,1,15.0,2026-11-25,Yes,459.08
+S00868,C0105,StreamFlix,Video Streaming,Premium,2023-05-11,Monthly,Active,649.0,785.29,2,21.0,2026-12-25,Yes,785.29
+S00869,C0194,SkillSpring,Education,Annual,2024-02-22,Annual,Active,799.0,679.15,0,0.0,2026-11-04,No,679.15
+S00870,C0256,BingeBox,Video Streaming,Family,2024-12-17,Annual,Active,399.0,373.92,2,10.3,2027-06-30,Yes,373.92
+S00871,C0282,TravelEase,Travel,Saver,2024-11-13,Monthly,Cancelled,249.0,268.92,1,8.0,2027-05-17,Yes,268.92
+S00872,C0191,StreamFlix,Video Streaming,Standard,2024-03-31,Monthly,Active,649.0,700.92,1,8.0,2027-01-10,Yes,700.92
+S00873,C0078,NewsDaily,News,Premium,2024-08-03,Monthly,Active,149.0,166.88,1,12.0,2027-04-26,Yes,166.88
+S00874,C0209,FitTrack+,Fitness,Monthly,2023-07-03,Monthly,Active,343.85,378.24,1,10.0,2027-04-01,Yes,378.24
+S00875,C0128,DesignDeck,Productivity,Basic,2024-07-27,Annual,Active,719.2,684.68,1,12.0,2027-05-14,No,684.68
+S00876,C0151,BingeBox,Video Streaming,Standard,2025-07-16,Monthly,Paused,399.0,500.51,2,25.4,2027-10-02,Yes,500.51
+S00877,C0303,OfficePilot,Productivity,Family,2026-07-27,Monthly,Active,549.0,592.92,1,8.0,2027-06-16,No,592.92
+S00878,C0230,MealMate,Food & Delivery,Max,2023-09-03,Monthly,Cancelled,99.0,99.0,0,0.0,2027-02-06,No,99.0
+S00879,C0052,CloudNest,Cloud Storage,1 TB,2024-12-21,Monthly,Active,228.85,228.85,0,0.0,2027-10-13,Yes,228.85
+S00880,C0159,OfficePilot,Productivity,Family,2026-03-17,Annual,Paused,631.35,625.95,2,16.6,2027-03-29,Yes,625.95
+S00881,C0251,TuneCloud,Music,Family,2023-01-13,Monthly,Active,119.0,136.85,1,15.0,2027-09-07,Yes,136.85
+S00882,C0104,GameSphere,Gaming,Core,2026-09-12,Monthly,Cancelled,573.85,573.85,0,0.0,2026-12-21,Yes,573.85
+S00883,C0111,TravelEase,Travel,Plus,2025-01-13,Monthly,Active,249.0,261.45,1,5.0,2027-09-27,No,261.45
+S00884,C0079,SkillSpring,Education,Annual,2023-01-31,Monthly,Active,799.0,894.88,1,12.0,2027-05-05,No,894.88
+S00885,C0284,StreamFlix,Video Streaming,Standard,2023-07-31,Monthly,Active,649.0,649.0,0,0.0,2027-08-12,No,649.0
+S00886,C0037,BingeBox,Video Streaming,Mobile,2025-02-25,Annual,Paused,458.85,421.23,1,8.0,2027-08-05,Yes,421.23
+S00887,C0103,DesignDeck,Productivity,Pro,2024-04-11,Monthly,Cancelled,719.2,1093.81,3,52.1,2027-03-23,Yes,1093.81
+S00888,C0005,TravelEase,Travel,Saver,2023-03-10,Monthly,Paused,249.0,249.0,0,0.0,2026-11-02,Yes,249.0
+S00889,C0141,TuneCloud,Music,Family,2024-01-30,Monthly,Cancelled,119.0,119.0,0,0.0,2027-10-07,Yes,119.0
+S00890,C0273,SecureSurf,Security,Advanced,2025-02-22,Monthly,Active,179.0,200.48,1,12.0,2027-09-30,Yes,200.48
+S00891,C0167,PodWave,Music,Premium,2025-10-04,Annual,Paused,113.85,104.52,1,8.0,2026-12-15,Yes,104.52
+S00892,C0334,TuneCloud,Music,Family,2025-03-29,Monthly,Cancelled,119.0,119.0,0,0.0,2027-01-06,Yes,119.0
+S00893,C0285,SecureSurf,Security,Basic,2025-10-13,Monthly,Active,143.2,143.2,0,0.0,2027-01-01,No,143.2
+S00894,C0296,SkillSpring,Education,Monthly,2026-03-23,Monthly,Active,799.0,918.85,1,15.0,2027-07-25,Yes,918.85
+S00895,C0090,DesignDeck,Productivity,Pro,2023-10-31,Monthly,Active,1033.85,1033.85,0,0.0,2027-07-01,No,1033.85
+S00896,C0314,TuneCloud,Music,Individual,2026-07-30,Annual,Active,136.85,116.32,0,0.0,2027-03-27,Yes,116.32
+S00897,C0290,GameSphere,Gaming,Ultimate,2024-04-24,Annual,Active,499.0,645.08,3,52.1,2027-08-15,Yes,645.08
+S00898,C0238,TuneCloud,Music,Individual,2024-01-20,Monthly,Active,119.0,119.0,0,0.0,2027-05-28,Yes,119.0
+S00899,C0186,PodWave,Music,Premium,2024-10-22,Monthly,Active,79.2,87.12,1,10.0,2027-04-22,Yes,87.12
+S00900,C0135,LearnLoop,Education,Pro,2023-10-30,Monthly,Active,399.2,527.94,2,32.2,2027-06-24,Yes,527.94
+S00901,C0303,StreamFlix,Video Streaming,Standard,2023-10-03,Monthly,Active,649.0,863.82,3,33.1,2027-06-25,Yes,863.82
+S00902,C0229,BingeBox,Video Streaming,Mobile,2023-12-10,Monthly,Active,319.2,400.4,2,25.4,2027-06-18,Yes,400.4
+S00903,C0266,OfficePilot,Productivity,Family,2026-02-18,Monthly,Active,439.2,484.22,2,10.3,2027-10-03,Yes,484.22
+S00904,C0241,StreamFlix,Video Streaming,Standard,2026-03-15,Monthly,Cancelled,649.0,756.99,2,16.6,2027-03-26,Yes,756.99
+S00905,C0133,OfficePilot,Productivity,Personal,2024-09-24,Monthly,Active,439.2,491.9,1,12.0,2027-01-30,Yes,491.9
+S00906,C0046,SecureSurf,Security,Basic,2023-10-26,Monthly,Active,143.2,143.2,0,0.0,2027-02-21,Yes,143.2
+S00907,C0146,OfficePilot,Productivity,Personal,2024-02-16,Monthly,Active,549.0,834.96,3,52.1,2027-10-19,Yes,834.96
+S00908,C0053,LearnLoop,Education,Starter,2023-02-21,Annual,Active,499.0,458.08,1,8.0,2027-02-03,No,458.08
+S00909,C0299,OfficePilot,Productivity,Personal,2024-07-31,Monthly,Cancelled,549.0,592.92,1,8.0,2027-06-01,Yes,592.92
+S00910,C0213,BingeBox,Video Streaming,Family,2024-05-19,Monthly,Active,319.2,351.92,2,10.3,2027-08-06,Yes,351.92
+S00911,C0066,CloudNest,Cloud Storage,100 GB,2025-04-26,Monthly,Active,228.85,276.91,2,21.0,2027-01-24,Yes,276.91
+S00912,C0059,NewsDaily,News,Digital,2025-12-08,Monthly,Active,149.0,149.0,0,0.0,2026-10-31,Yes,149.0
+S00913,C0077,PodWave,Music,Free+,2025-01-01,Monthly,Active,79.2,79.2,0,0.0,2027-02-04,Yes,79.2
+S00914,C0120,FitTrack+,Fitness,Monthly,2025-03-08,Monthly,Active,239.2,239.2,0,0.0,2026-11-08,Yes,239.2
+S00915,C0136,DesignDeck,Productivity,Pro,2024-06-12,Monthly,Active,719.2,719.2,0,0.0,2027-01-06,Yes,719.2
+S00916,C0162,LearnLoop,Education,Pro,2026-02-22,Annual,Cancelled,499.0,532.06,2,25.4,2027-04-29,Yes,532.06
+S00917,C0039,PodWave,Music,Free+,2023-06-01,Monthly,Active,79.2,87.12,1,10.0,2027-03-14,Yes,87.12
+S00918,C0264,PodWave,Music,Premium,2023-02-22,Monthly,Active,113.85,125.24,1,10.0,2026-10-30,Yes,125.24
+S00919,C0301,FitTrack+,Fitness,Annual,2025-08-11,Monthly,Active,299.0,329.65,2,10.3,2027-08-07,Yes,329.65
+S00920,C0282,NewsDaily,News,Premium,2024-03-22,Monthly,Active,119.2,119.2,0,0.0,2027-02-02,Yes,119.2
+S00921,C0320,StreamFlix,Video Streaming,Standard,2026-01-19,Monthly,Active,649.0,746.35,1,15.0,2027-03-21,No,746.35
+S00922,C0036,StreamFlix,Video Streaming,Standard,2026-07-26,Monthly,Active,519.2,691.06,3,33.1,2027-07-01,Yes,691.06
+S00923,C0178,GameSphere,Gaming,Core,2024-02-18,Annual,Active,573.85,487.77,0,0.0,2027-06-01,Yes,487.77
+S00924,C0168,TuneCloud,Music,Family,2023-11-18,Annual,Paused,119.0,111.26,1,10.0,2027-02-23,No,111.26
+S00925,C0062,GameSphere,Gaming,Core,2025-03-01,Monthly,Active,499.0,548.9,1,10.0,2027-04-19,Yes,548.9
+S00926,C0057,TuneCloud,Music,Individual,2025-10-08,Monthly,Active,95.2,95.2,0,0.0,2027-08-08,No,95.2
+S00927,C0092,MealMate,Food & Delivery,Max,2026-09-26,Annual,Cancelled,113.85,121.91,3,26.0,2027-05-29,Yes,121.91
+S00928,C0183,GameSphere,Gaming,Ultimate,2023-10-21,Monthly,Active,573.85,632.67,2,10.3,2027-03-16,Yes,632.67
+S00929,C0348,MealMate,Food & Delivery,Max,2023-03-07,Monthly,Cancelled,99.0,131.77,3,33.1,2026-12-31,Yes,131.77
+S00930,C0193,CloudNest,Cloud Storage,100 GB,2026-03-08,Monthly,Active,199.0,199.0,0,0.0,2027-06-20,Yes,199.0
+S00931,C0007,BingeBox,Video Streaming,Mobile,2024-05-01,Monthly,Active,319.2,344.74,1,8.0,2027-08-07,Yes,344.74
+S00932,C0269,SecureSurf,Security,Advanced,2024-01-11,Monthly,Active,179.0,179.0,0,0.0,2026-12-15,Yes,179.0
+S00933,C0104,SecureSurf,Security,Advanced,2026-08-13,Annual,Active,179.0,152.15,0,0.0,2027-01-13,Yes,152.15
+S00934,C0009,LearnLoop,Education,Starter,2024-06-29,Monthly,Active,399.2,439.12,1,10.0,2027-03-23,No,439.12
+S00935,C0100,GameSphere,Gaming,Core,2024-06-13,Monthly,Active,399.2,399.2,0,0.0,2027-09-13,Yes,399.2
+S00936,C0052,TravelEase,Travel,Plus,2026-01-02,Monthly,Active,249.0,249.0,0,0.0,2027-04-27,Yes,249.0
+S00937,C0290,StreamFlix,Video Streaming,Premium,2024-02-06,Monthly,Active,746.35,936.22,2,25.4,2027-07-28,Yes,936.22
+S00938,C0199,TuneCloud,Music,Individual,2026-07-30,Monthly,Cancelled,119.0,119.0,0,0.0,2027-01-03,Yes,119.0
+S00939,C0118,TuneCloud,Music,Family,2026-06-02,Monthly,Active,119.0,157.38,2,32.3,2027-04-06,Yes,157.38
+S00940,C0094,FitTrack+,Fitness,Annual,2025-12-08,Annual,Active,299.0,254.15,0,0.0,2027-05-10,Yes,254.15
+S00941,C0167,GameSphere,Gaming,Core,2024-01-13,Monthly,Active,399.2,399.2,0,0.0,2027-04-05,No,399.2
+S00942,C0289,PodWave,Music,Free+,2026-04-09,Monthly,Cancelled,99.0,99.0,0,0.0,2026-12-17,No,99.0
+S00943,C0330,StreamFlix,Video Streaming,Basic,2025-03-22,Monthly,Active,649.0,911.8,3,40.5,2026-12-16,Yes,911.8
+S00944,C0306,OfficePilot,Productivity,Family,2026-07-16,Monthly,Active,439.2,512.28,2,16.6,2027-04-08,Yes,512.28
+S00945,C0167,SecureSurf,Security,Basic,2025-07-17,Monthly,Active,179.0,193.32,1,8.0,2027-06-29,Yes,193.32
+S00946,C0145,FitTrack+,Fitness,Monthly,2024-01-08,Monthly,Active,299.0,334.88,1,12.0,2027-03-10,Yes,334.88
+S00947,C0253,SkillSpring,Education,Annual,2024-10-12,Monthly,Active,918.85,1056.68,1,15.0,2027-08-25,Yes,1056.68
+S00948,C0030,TravelEase,Travel,Saver,2025-09-14,Monthly,Active,249.0,278.88,1,12.0,2027-05-09,No,278.88
+S00949,C0175,GameSphere,Gaming,Ultimate,2024-11-18,Annual,Active,499.0,491.0,3,15.8,2026-11-07,Yes,491.0
+S00950,C0291,PodWave,Music,Free+,2023-02-25,Annual,Active,99.0,97.41,3,15.8,2027-08-28,Yes,97.41
+S00951,C0255,TuneCloud,Music,Family,2023-02-21,Monthly,Active,119.0,119.0,0,0.0,2026-10-30,Yes,119.0
+S00952,C0303,StreamFlix,Video Streaming,Premium,2025-08-05,Annual,Active,649.0,579.23,1,5.0,2027-09-16,No,579.23
+S00953,C0078,FitTrack+,Fitness,Annual,2025-05-03,Annual,Cancelled,299.0,307.52,2,21.0,2027-02-14,Yes,307.52
+S00954,C0290,SkillSpring,Education,Annual,2023-10-20,Monthly,Active,918.85,1215.18,2,32.3,2026-11-04,No,1215.18
+S00955,C0162,MealMate,Food & Delivery,Plus,2024-03-06,Monthly,Active,99.0,99.0,0,0.0,2027-09-20,Yes,99.0
+S00956,C0318,BingeBox,Video Streaming,Mobile,2025-08-26,Monthly,Active,399.0,418.95,1,5.0,2027-02-16,Yes,418.95
+S00957,C0159,FitTrack+,Fitness,Annual,2024-10-09,Annual,Paused,239.2,213.49,1,5.0,2027-09-27,No,213.49
+S00958,C0183,SecureSurf,Security,Advanced,2023-09-21,Monthly,Cancelled,143.2,189.38,2,32.2,2027-09-04,No,189.38
+S00959,C0111,CloudNest,Cloud Storage,100 GB,2024-01-05,Monthly,Active,199.0,222.88,1,12.0,2027-06-30,Yes,222.88
+S00960,C0238,OfficePilot,Productivity,Family,2023-09-24,Monthly,Active,549.0,549.0,0,0.0,2027-08-21,Yes,549.0
+S00961,C0278,PodWave,Music,Free+,2026-03-14,Monthly,Active,79.2,79.2,0,0.0,2026-11-04,No,79.2
+S00962,C0010,FitTrack+,Fitness,Annual,2026-06-20,Monthly,Active,299.0,322.92,1,8.0,2026-12-14,Yes,322.92
+S00963,C0287,FitTrack+,Fitness,Monthly,2023-10-01,Monthly,Active,299.0,376.65,3,26.0,2027-02-18,Yes,376.65
+S00964,C0201,DesignDeck,Productivity,Pro,2024-04-11,Annual,Active,719.2,660.23,1,8.0,2027-08-19,Yes,660.23
+S00965,C0259,LearnLoop,Education,Starter,2023-03-30,Monthly,Active,499.0,550.15,2,10.3,2026-12-22,No,550.15
+S00966,C0211,SecureSurf,Security,Advanced,2025-12-14,Monthly,Cancelled,205.85,205.85,0,0.0,2027-09-05,Yes,205.85
+S00967,C0139,OfficePilot,Productivity,Personal,2023-02-18,Monthly,Active,439.2,484.22,2,10.3,2027-03-29,Yes,484.22
+S00968,C0039,CloudNest,Cloud Storage,1 TB,2025-10-24,Monthly,Cancelled,199.0,199.0,0,0.0,2027-04-03,Yes,199.0
+S00969,C0191,DesignDeck,Productivity,Basic,2024-09-25,Monthly,Active,719.2,755.16,1,5.0,2027-03-10,Yes,755.16
+S00970,C0242,SecureSurf,Security,Advanced,2025-09-26,Monthly,Active,179.0,224.54,2,25.4,2027-04-13,Yes,224.54
+S00971,C0017,MealMate,Food & Delivery,Plus,2023-01-12,Monthly,Active,99.0,106.92,1,8.0,2027-04-24,Yes,106.92
+S00972,C0318,TuneCloud,Music,Individual,2024-01-17,Annual,Active,95.2,89.01,1,10.0,2026-11-05,No,89.01
+S00973,C0040,LearnLoop,Education,Starter,2025-02-28,Monthly,Active,573.85,573.85,0,0.0,2027-03-31,No,573.85
+S00974,C0080,SecureSurf,Security,Advanced,2024-10-20,Monthly,Active,179.0,193.32,1,8.0,2027-07-29,Yes,193.32
+S00975,C0329,TuneCloud,Music,Duo,2025-08-24,Monthly,Active,119.0,119.0,0,0.0,2027-05-21,Yes,119.0
+S00976,C0165,SecureSurf,Security,Basic,2025-10-17,Monthly,Cancelled,179.0,179.0,0,0.0,2026-11-06,Yes,179.0
+S00977,C0089,GameSphere,Gaming,Core,2023-01-14,Monthly,Active,573.85,642.71,1,12.0,2026-12-15,Yes,642.71
+S00978,C0313,SecureSurf,Security,Advanced,2023-01-22,Monthly,Active,205.85,205.85,0,0.0,2027-10-18,Yes,205.85
+S00979,C0134,NewsDaily,News,Digital,2026-05-23,Monthly,Active,171.35,214.94,2,25.4,2027-08-08,No,214.94
+S00980,C0280,TravelEase,Travel,Plus,2025-11-14,Monthly,Active,199.2,199.2,0,0.0,2027-03-07,No,199.2
+S00981,C0003,LearnLoop,Education,Starter,2025-02-06,Monthly,Active,399.2,399.2,0,0.0,2027-03-12,Yes,399.2
+S00982,C0140,NewsDaily,News,Premium,2023-11-11,Annual,Paused,119.2,101.32,0,0.0,2027-07-11,Yes,101.32
+S00983,C0126,TravelEase,Travel,Plus,2024-01-06,Monthly,Active,249.0,273.9,1,10.0,2027-10-21,No,273.9
+S00984,C0138,DesignDeck,Productivity,Basic,2023-10-23,Monthly,Cancelled,899.0,1087.79,2,21.0,2027-09-23,Yes,1087.79
+S00985,C0325,CloudNest,Cloud Storage,Family,2025-08-22,Monthly,Active,199.0,199.0,0,0.0,2027-09-04,No,199.0
+S00986,C0196,SecureSurf,Security,Advanced,2024-09-03,Annual,Active,179.0,152.15,0,0.0,2027-04-23,Yes,152.15
+S00987,C0337,StreamFlix,Video Streaming,Standard,2026-07-05,Monthly,Active,649.0,858.3,2,32.2,2027-07-10,Yes,858.3
+S00988,C0268,TravelEase,Travel,Saver,2023-06-28,Monthly,Active,249.0,249.0,0,0.0,2027-08-10,Yes,249.0
+S00989,C0151,LearnLoop,Education,Starter,2025-01-16,Monthly,Active,573.85,763.79,3,33.1,2027-03-01,Yes,763.79
+S00990,C0037,CloudNest,Cloud Storage,100 GB,2025-11-26,Monthly,Active,159.2,211.9,3,33.1,2027-09-15,Yes,211.9
+S00991,C0045,TuneCloud,Music,Family,2024-08-17,Monthly,Active,95.2,109.48,1,15.0,2027-04-16,Yes,109.48
+S00992,C0180,CloudNest,Cloud Storage,100 GB,2023-03-06,Monthly,Active,199.0,199.0,0,0.0,2027-03-14,No,199.0
+S00993,C0148,SkillSpring,Education,Monthly,2023-01-02,Annual,Active,799.0,679.15,0,0.0,2026-11-15,Yes,679.15
+S00994,C0251,CloudNest,Cloud Storage,1 TB,2023-01-01,Monthly,Active,199.0,263.18,2,32.3,2027-07-08,Yes,263.18
+S00995,C0243,DesignDeck,Productivity,Basic,2023-11-26,Monthly,Active,899.0,899.0,0,0.0,2027-10-20,Yes,899.0
+S00996,C0259,LearnLoop,Education,Starter,2023-02-06,Monthly,Active,499.0,523.95,1,5.0,2027-08-01,No,523.95
+S00997,C0328,GameSphere,Gaming,Ultimate,2023-10-10,Monthly,Cancelled,573.85,573.85,0,0.0,2027-07-08,Yes,573.85
+S00998,C0195,BingeBox,Video Streaming,Family,2023-07-19,Monthly,Active,399.0,399.0,0,0.0,2027-04-14,No,399.0
+S00999,C0014,SkillSpring,Education,Monthly,2026-04-03,Monthly,Active,918.85,1071.75,2,16.6,2027-01-22,No,1071.75
+S01000,C0089,TuneCloud,Music,Duo,2023-08-26,Monthly,Cancelled,119.0,128.52,1,8.0,2027-05-21,Yes,128.52
+S01001,C0066,OfficePilot,Productivity,Family,2024-08-10,Monthly,Active,549.0,614.88,1,12.0,2027-07-13,Yes,614.88
+S01002,C0136,OfficePilot,Productivity,Family,2025-06-27,Annual,Cancelled,549.0,466.65,0,0.0,2027-01-25,Yes,466.65
+S01003,C0282,DesignDeck,Productivity,Basic,2025-05-24,Monthly,Active,899.0,1040.7,3,15.8,2026-11-16,Yes,1040.7
+S01004,C0100,GameSphere,Gaming,Ultimate,2025-01-19,Monthly,Paused,399.2,431.14,1,8.0,2027-07-05,Yes,431.14
+S01005,C0267,LearnLoop,Education,Pro,2026-07-04,Monthly,Active,573.85,659.93,1,15.0,2027-02-05,Yes,659.93
+S01006,C0063,SecureSurf,Security,Advanced,2024-12-18,Monthly,Active,179.0,179.0,0,0.0,2027-07-13,Yes,179.0
+S01007,C0090,PodWave,Music,Free+,2023-10-06,Monthly,Active,113.85,113.85,0,0.0,2027-08-15,Yes,113.85
+S01008,C0208,BingeBox,Video Streaming,Mobile,2025-11-23,Monthly,Active,399.0,502.63,3,26.0,2027-09-12,Yes,502.63
+S01009,C0135,TuneCloud,Music,Family,2026-09-24,Monthly,Active,95.2,109.48,1,15.0,2027-05-18,Yes,109.48
+S01010,C0055,StreamFlix,Video Streaming,Basic,2026-06-07,Monthly,Active,649.0,911.8,3,40.5,2027-05-14,Yes,911.8
+S01011,C0331,PodWave,Music,Premium,2026-07-20,Monthly,Active,113.85,127.51,1,12.0,2027-07-27,Yes,127.51
+S01012,C0047,TravelEase,Travel,Plus,2025-04-04,Monthly,Active,249.0,288.25,3,15.8,2027-09-14,Yes,288.25
+S01013,C0273,StreamFlix,Video Streaming,Basic,2025-11-17,Monthly,Active,746.35,746.35,0,0.0,2027-07-06,Yes,746.35
+S01014,C0326,CloudNest,Cloud Storage,1 TB,2024-09-15,Monthly,Active,199.0,199.0,0,0.0,2027-07-17,Yes,199.0
+S01015,C0047,NewsDaily,News,Digital,2024-09-30,Monthly,Active,119.2,181.29,3,52.1,2027-09-14,Yes,181.29
+S01016,C0299,CloudNest,Cloud Storage,Family,2026-03-17,Monthly,Active,159.2,183.08,1,15.0,2026-11-27,Yes,183.08
+S01017,C0187,TuneCloud,Music,Family,2024-06-19,Annual,Active,119.0,111.26,1,10.0,2027-10-13,Yes,111.26
+S01018,C0162,TuneCloud,Music,Family,2023-11-28,Monthly,Cancelled,119.0,119.0,0,0.0,2027-10-21,Yes,119.0
+S01019,C0010,TuneCloud,Music,Duo,2024-02-05,Annual,Active,119.0,111.26,1,10.0,2027-05-06,Yes,111.26
+S01020,C0058,StreamFlix,Video Streaming,Standard,2025-06-06,Monthly,Active,519.2,519.2,0,0.0,2027-03-08,Yes,519.2
+S01021,C0219,BingeBox,Video Streaming,Family,2024-12-31,Monthly,Active,319.2,367.08,1,15.0,2027-06-22,No,367.08
+S01022,C0113,OfficePilot,Productivity,Personal,2025-06-26,Monthly,Active,439.2,474.34,1,8.0,2027-03-28,Yes,474.34
+S01023,C0212,OfficePilot,Productivity,Personal,2024-09-14,Monthly,Active,439.2,439.2,0,0.0,2027-07-14,No,439.2
+S01024,C0347,MealMate,Food & Delivery,Max,2023-01-18,Monthly,Active,99.0,113.85,1,15.0,2027-08-05,Yes,113.85
+S01025,C0037,OfficePilot,Productivity,Family,2026-07-18,Monthly,Active,549.0,592.92,1,8.0,2027-01-01,Yes,592.92
+S01026,C0064,BingeBox,Video Streaming,Standard,2023-11-14,Monthly,Cancelled,399.0,458.85,1,15.0,2027-01-01,Yes,458.85
+S01027,C0205,PodWave,Music,Premium,2025-06-05,Monthly,Active,113.85,130.93,1,15.0,2027-06-15,Yes,130.93
+S01028,C0050,StreamFlix,Video Streaming,Basic,2023-07-13,Annual,Active,649.0,608.19,2,10.2,2026-12-27,Yes,608.19
+S01029,C0262,DesignDeck,Productivity,Pro,2026-07-10,Monthly,Active,719.2,776.74,1,8.0,2027-10-08,No,776.74
+S01030,C0242,PodWave,Music,Free+,2024-03-29,Monthly,Paused,99.0,99.0,0,0.0,2027-05-23,Yes,99.0
+S01031,C0290,BingeBox,Video Streaming,Family,2026-04-19,Monthly,Active,458.85,458.85,0,0.0,2027-09-07,Yes,458.85
+S01032,C0084,LearnLoop,Education,Starter,2023-03-07,Annual,Active,573.85,568.94,2,16.6,2026-12-25,No,568.94
+S01033,C0028,StreamFlix,Video Streaming,Standard,2025-08-26,Monthly,Active,746.35,835.91,1,12.0,2027-03-07,No,835.91
+S01034,C0186,GameSphere,Gaming,Core,2024-01-01,Monthly,Cancelled,573.85,722.89,3,26.0,2027-09-29,No,722.89
+S01035,C0176,SkillSpring,Education,Annual,2023-04-11,Monthly,Active,799.0,799.0,0,0.0,2027-05-30,Yes,799.0
+S01036,C0190,StreamFlix,Video Streaming,Standard,2026-07-03,Annual,Active,746.35,634.4,0,0.0,2026-12-17,No,634.4
+S01037,C0174,BingeBox,Video Streaming,Mobile,2023-03-20,Monthly,Active,399.0,399.0,0,0.0,2027-07-22,Yes,399.0
+S01038,C0297,FitTrack+,Fitness,Monthly,2023-04-04,Annual,Active,239.2,203.32,0,0.0,2026-11-19,Yes,203.32
+S01039,C0176,StreamFlix,Video Streaming,Basic,2024-08-02,Monthly,Active,746.35,1048.57,3,40.5,2027-08-11,Yes,1048.57
+S01040,C0025,GameSphere,Gaming,Ultimate,2025-07-17,Annual,Active,399.2,366.47,1,8.0,2027-01-31,Yes,366.47
+S01041,C0022,SecureSurf,Security,Advanced,2023-02-09,Monthly,Paused,179.0,193.32,1,8.0,2027-06-05,Yes,193.32
+S01042,C0124,TravelEase,Travel,Plus,2025-08-20,Monthly,Active,249.0,278.88,1,12.0,2027-10-24,Yes,278.88
+S01043,C0226,BingeBox,Video Streaming,Mobile,2024-04-05,Monthly,Active,399.0,430.92,1,8.0,2027-05-01,Yes,430.92
+S01044,C0262,GameSphere,Gaming,Ultimate,2023-11-28,Annual,Active,499.0,513.22,2,21.0,2027-08-28,No,513.22
+S01045,C0135,StreamFlix,Video Streaming,Basic,2026-05-13,Monthly,Active,649.0,746.35,1,15.0,2027-07-27,Yes,746.35
+S01046,C0178,StreamFlix,Video Streaming,Premium,2023-01-29,Monthly,Active,649.0,649.0,0,0.0,2027-04-10,Yes,649.0
+S01047,C0139,StreamFlix,Video Streaming,Premium,2026-04-07,Monthly,Active,649.0,715.52,2,10.2,2027-07-17,Yes,715.52
+S01048,C0144,OfficePilot,Productivity,Personal,2026-01-25,Monthly,Active,549.0,664.29,2,21.0,2027-01-01,Yes,664.29
+S01049,C0042,OfficePilot,Productivity,Family,2024-08-25,Monthly,Cancelled,439.2,474.34,1,8.0,2027-01-13,Yes,474.34
+S01050,C0102,StreamFlix,Video Streaming,Basic,2025-01-17,Monthly,Active,519.2,597.08,1,15.0,2026-11-02,Yes,597.08
